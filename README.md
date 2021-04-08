@@ -17,9 +17,9 @@ In this example, My algorithm would predict "!sound" when seeing the question
 ### Prerequisites
 
 Things to install
-numpy
-fasttext
-matplotlib
+* numpy
+* fasttext
+* matplotlib
 
 ### Installing
 

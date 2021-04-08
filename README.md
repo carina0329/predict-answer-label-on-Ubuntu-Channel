@@ -43,7 +43,7 @@ The baseline score, which is the score of printing the most frequent label, is 0
 * Fasttext CNN
 * score: 0.6338797814207651
 * Perceptron
-** score: 0.5747126436781609
+* score: 0.5747126436781609
 * SVM
 * score: 0.47701149425287354
 

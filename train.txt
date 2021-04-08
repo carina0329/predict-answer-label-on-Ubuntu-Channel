@@ -1,0 +1,1476 @@
+__label__!ask hi all.. is it ok to ask a question here?
+__label__!fixres can someone help me setting max resolution in x / relink me to the x troubleshooting guide?
+__label__!repeat using nautilus to browse my samba server works (it sees it and i can copy a 5 mb file)....but when i try to copy a large file (700mb) the transfer just gets slower and slower and eventually times out... how can it work for a small file but not a large one?
+__label__!hi hi
+__label__!anyone can someone help me please: http://paste.ubuntu-nl.org/5821/
+__label__!hi hi
+__label__!upgrade !upgrade > flash13
+__label__!grub i mean i have the terminal open
+__label__!anyone hi there. anybody knowing how to configure wireless between 2 ubuntus?
+__label__!hi hello
+__label__!hi hey people
+__label__!sound frogzoo: hmm, thats wierd, i was just playing a movie in vlc (sound was fine), closed it down, xmms won't play sound now, but i restarded alsa.
+__label__!fr allez a #ubuntu-fr ou #kubuntu-fr pour de l'aide et de la discussion en francais.
+__label__!hi hi
+__label__!fr salut  tous
+__label__!offtopic yw
+__label__!hi hi chipbuddy
+__label__!fr lazer350, #ubuntu-fr
+__label__!anyone anyone here use evdev driver for their mouse?
+__label__!hi hello
+__label__!fr ya des franais ici ?
+__label__!fr ya des franais ici ?
+__label__!anyone can somebody help me? i have xserver error...
+__label__!es !es | rosare
+__label__!hi hi everybody.
+__label__!upgrade how do i upgrade from 6.06 to 6.10?
+__label__!hi hello dsquare
+__label__!hi hello
+__label__!offtopic hello everyone. so i hear that idiot esr has moved from fedora to ubuntu. what are the general thoughts/feelings about this?
+__label__!hi evening all
+__label__!fr qqn connatrait-il un moyen simple de rparer sa distro ubuntu?
+__label__!ask akao: to install the ati/nvidia drivers for your video card, see https://help.ubuntu.com/community/binarydriverhowto
+__label__!hi hello
+__label__!es  quiero compartir mi musica con otros ordenadores de mi red local via daap, pero no se como configurarlo, alguien podria ayudarme??
+__label__!fr ya un francais ?
+__label__!it qualcuno parla italiano___
+__label__!hi !hello > gbo
+__label__!sound tony__, can you be more specific?
+__label__!info lesshaste, have you enabled universe?
+__label__!ask hmm, should a ask question about ubuntu here or somewhere else?
+__label__!hi hi all
+__label__!upgrade how would i upgrade from 6.06 to the newer versions?
+__label__!anyone anyone know anything about sound on a toshiba satelite with kubuntu-amd64?
+__label__!upgrade how to upgrade again, 6.06 -> 6.10?
+__label__!fixres why
+__label__!repeat using ubuntu how would i use konqueror as a replacement for nautilus?
+__label__!sound cables: no, i just got ubuntu
+__label__!ask can anyone help me?
+__label__!grub i installed windows vista and lost the grub how do i install it back can someone help me
+__label__!repeat i need help playing divx cd's..i installed all the plugins required...but some cd's doesn't play..it says "cannot open location.you don't have permission to open the file"
+__label__!offtopic i am running mepis. what repositories should i have?
+__label__!es any spanish channel of ubuntu?
+__label__!fixres hi, anyone could tell me how can i increase the resolution, i have an nvidia video card but i can go upper than 1024 x 768 and fonts are really big!
+__label__!anyone anyone else have experience with nvidia graphics card issues?
+__label__!hi hi all
+__label__!hi hi
+__label__!it ragazzi ho una domanda ma i driver open ati sono uguali a i driver radeon?
+__label__!grub is there anyway to reinstall grub ... or just any help
+__label__!info dyrne, cyris: boot options: https://help.ubuntu.com/community/bootoptions - to add/remove startup services, you can use the package 'bum', or update-rc.d - to add your own startup scripts, use /etc/rc.local - see also !grub and !dualboot - making a boot floppy: https://help.ubuntu.com/community/grubhowto/bootfloppy - also see https://help.ubuntu.com/community/smartbootmanagerhowto
+__label__!es canal en espaol de ubuntu
+__label__!anyone could anyone help me get up and running with easyubuntu?  i've got it installed and tried to look at their support, but no luck
+__label__!offtopic anyeone play bub-n-bros with me? is really funny http://www.linuks.mine.nu/people/bubnbros/bubtoomuch2full.png
+__label__!repeat hi guys.... i hve a strange problem. i connected to a new wireless network, and now the icon for amsn which was in the system tray has "gone" !
+__label__!es quien habla espaol?
+__label__!ask hi guys i gota few questions ;o
+__label__!offtopic vista sucks
+__label__!fixres anonymeeee: if you prefix your lines with the nickname of the person you're talking to, you have a greater chance that that person reads your messages
+__label__!fixres gyaresu: i need to fix my screen resolution...it's stuck at 640x480.  what do you suggest i do?
+__label__!de hat einer das w850 se
+__label__!ask can i ask a question?
+__label__!grub kaozpirate: you'll need to reinstall grub to the mbr, no big deal
+__label__!info ta
+__label__!ask hey is there anyone that can help me with a quick question??
+__label__!fixres azraelm: is that higher or lower than the max listed now?
+__label__!info hi... all i would like to install qt4 so that i can install ktoon from source... is there a guide for qt4 on ubuntu?
+__label__!hi hello
+__label__!offtopic i hear that only people who have been abducted and probed by aliens use xubuntu :p
+__label__!upgrade i want to upgrade a system from dapper to edgy, how do i install the upgrade without cd?
+__label__!repeat can someone tell me where the default access log for apache2 on ubuntu resides?
+__label__!es hola alguien con experiencia en asterix que hable espaol?
+__label__!sound where can i get sound drivers for my motherboards sound card
+__label__!grub godofredo07: just install windows normally and then
+__label__!hi  hellooooooo
+__label__!repeat is there a way i can play piano using my keyboard
+__label__!hi hi
+__label__!hi hello everyone
+__label__!grub i'm trying to replace lilo with grub but when i run grub-install, i get "the file /boot/grub/stage1 not read correctly." anyone know how to fix this?
+__label__!sound can anybody tell me how do i figure the type of sound cards i have and whether they are properly configured?
+__label__!offtopic i actualy havent got it installed
+__label__!anyone ouzo: i've tried it. what's the issue?
+__label__!repeat can any one knows here how to configure nokia3230 with ubuntu to access internet.
+__label__!fr salut un moyen de voir combien de mga on transit ds ma carte reseau depuis le dernier alumage du pc ?
+__label__!info hole: nmap: the network mapper. in component main, is extra. version 4.10-1 (edgy), package size 702 kb, installed size 2436 kb
+__label__!ask help
+__label__!fr salut a tous
+__label__!es i speak spanish
+__label__!de kann mir einer sagen warum lshw mir 2 cpus anzeigt, obwohl ich nur einen amd athlon-xp-m habe??
+__label__!hi hi
+__label__!ask can i ask a question?
+__label__!grub anyone got a few seconds to remind me how i manually install grub from using the live ubuntu cd? it seems to want to install to the wrong boot device
+__label__!upgrade how do i upgrade to edgy from dapper without having to burn a new cd?
+__label__!grub hi all. if, or what ever reason i'd need to reinstall windows, how can i get ubuntu back? is there a way to do do it without a complete reinstall of ubuntu? we all know what windows likes to do with mbr... lol
+__label__!it ciao a tutti mi potreste aiutare, non capisco un passaggio nell'abilitare 3dati
+__label__!fr bonsoir
+__label__!fixres hi. i am missing the 1920 x 1200 resolution in ubuntu 6.10. i have an ati radeon 9600. anyone know how to configure this?
+__label__!grub d00by: dual boot instructions:  https://help.ubuntu.com/community/windowsdualboothowto (x86/amd64) - https://wiki.ubuntu.com/yabootconfigurationformacintoshpowerpcsdualboot (macintosh)
+__label__!es spanish?
+__label__!info stonenewt: try wifi-radar
+__label__!sound i've got a sigmatel 9200 sound card which i can't get to work outside windows. can anyone help me?
+__label__!anyone no mattr
+__label__!hi hey
+__label__!sound can anyone help out with a sound problem
+__label__!hi hello all
+__label__!grub i have a problem- i installed ubuntu on my computer and then later installed windows vista on another partition but how can i boot to the ubuntu partition now?
+__label__!ask hi can anyone help me with wine ?
+__label__!sound where would i look to make sure there's an alsa driver installed for my sound chip?
+__label__!es zardicn: that's in spanish. :)  try #ubuntu-es
+__label__!es roliex: svensk ubuntu- och kubuntusupport hittar du pa #ubuntu-se resp. #kubuntu-se
+__label__!fixres hi, how can i change my resolution. to other than available. i have only two options, 1024 x 768 and 800 x 600
+__label__!repeat can someone help me with sharing an internet connection?
+__label__!offtopic http://www.youtube.com/watch?v=tsz1bwxfzu4 -- this almost made me cry, its amazing
+__label__!de leo_: /join #ubuntu-de
+__label__!hi hi all.
+__label__!anyone um, i have a problem, can anyone help?
+__label__!offtopic !offtopic | hendrixski
+__label__!grub can i boot off of a usb drive?  how do i get grub on there from the livecd?
+__label__!fr bonjour
+__label__!ask 
+__label__!fr is there a french room ?
+__label__!ask bones: or here
+__label__!de can i talk to someone who's from germany? it's very very important! pm me please, i need your help!
+__label__!grub how do i install grub? i had xp, installed ubuntu (which installed grubloader), and then installed vista (which overrode grub)
+__label__!offtopic themaniackylapto: help! mez, ljl, elkbuntu, imbrandon, dbo, gnomefreak, hobbsee, rob, ompaul, madpilot, burgundavia, seveas, carlk, crimsun, ajmitch, tritium, nalioth, thoreauputic, apokryphos, tonyyarusso, pricechild or amaranth
+__label__!hi hello
+__label__!fixres could someone please send me the command to run in terminal that will autodectect my monitor? (edgy)
+__label__!offtopic hello i am a newbie about hacking and that stuff so i need some one that can explain a few things for me
+__label__!upgrade or do i need dapper?
+__label__!offtopic ?
+__label__!es hi, is there a spanish ubuntu channel?
+__label__!it sera a tutti
+__label__!offtopic people in #linux think ubuntu is for noobs,  i wonder why
+__label__!repeat i have a question. i'm using beryl window manager and everytime i press the shift button the window flashes, is there a way to remove it?
+__label__!fr hi ! is someone manage to use a dlink wmp54gs with ubuntu 6.10 plz
+__label__!info just wondering, is there a way to replace konqueror with krusader if so how?
+__label__!de moin alle zusammen, spricht hier wer deutsch?
+__label__!fr salut
+__label__!info apt-cache search linux-image knowledgengineer
+__label__!fixres hello! i've installed xubuntu on my computer and exploring the configurations, i've changed the screen resolution to 800x600 pixels. i would like to change it back to 1024x768, but this resolution doesn't appear in the display configuration window. does anybody know how i can do that?
+__label__!info are there any software for ubuntu/linux to reencode a dvd movie, from dvd9 to dvd5 ? basically i want to copy a movie and burn it on a single layer dvd
+__label__!repeat rooy sorry :/
+__label__!offtopic is ubuntu a haxx0r os??
+__label__!es hola alguien habla espaol?
+__label__!fixres stone123, whatever comes on the board with the dell dimension 2400
+__label__!es se habla espaol?
+__label__!it ciao amici di linux
+__label__!info whodare: use synaptic, or add/remove, or apt-get, or aptitude to install the 'gparted' package
+__label__!es hola
+__label__!ask can i get some help installing?
+__label__!fr salut
+__label__!grub how would i do this?
+__label__!anyone tbuss, i do ;)
+__label__!hi hi
+__label__!es txete: /j #ubuntu-es
+__label__!de moin alle zusammen
+__label__!ask can anybody help me?
+__label__!es idioma espaol ???
+__label__!grub hello all..... unfortunately i'm having to reinstall winxp (multiboot) and i know it's gonna nuke my grub loader.... i'm wondering exactly what i need to backup so i can restore grub post-xp installation
+__label__!repeat is there any reason that when i used lynx to open www.google.com, abiword opened instead?
+__label__!hi waxyfresh, also the ubuntu forums site made the official guide for doing this
+__label__!es ola
+__label__!grub (ardchoille): yes
+__label__!grub how can i install grub on my second hdd?  whats the command i type from ubuntu?
+__label__!es hola alguno de uds. habla espaol
+__label__!fixres mlpug: xorg.conf
+__label__!repeat xanthus35, jsut say the problem exactly
+__label__!it ???
+__label__!offtopic i got mine for free
+__label__!upgrade how to upgrade to 7.04 version?
+__label__!info qiyong, yes
+__label__!hi hello again :d
+__label__!ask i have a question on behalf of a friend.
+__label__!offtopic who is a good domain registrar?
+__label__!upgrade tarkus: yeah, 6.10 will upgrade via the interblags
+__label__!ask after my feist installation my computer wont boot
+__label__!es hola
+__label__!fixres how to raise the display refresh rate? i can only select 60 hz and my eyes are starting to hurt
+__label__!offtopic apparently, in the first two weeks, microsoft has only been able to sell 244 genuine copies of their windows vista os in all of china. http://slashdot.org/articles/07/04/18/1512216.shtml
+__label__!upgrade sorry, i don't know anything about krb - try searching on http://bots.ubuntulinux.nl/factoids.cgi
+__label__!upgrade how can i update to 7.04 without downloading the .iso?
+__label__!fixres can somebody tell me how i can change the screen resolution to 1280x1024?
+__label__!es colifato: no.. it's because you are up to date
+__label__!info does anyone know if there is a firestarter for 7.04?
+__label__!info !rar | fami
+__label__!info under the file systems tab of the system monitor window i see nfsd at /proc/fs/nfsd. what the hell is that? i've just put a different motherboard in this machine.
+__label__!info whats the default kernel version in fiesty
+__label__!info bimberi: i'm using xchat on feisty right now
+__label__!info ctothej: uhm well, what i had in mind might still be of some help
+__label__!offtopic kahrytan: who cares?
+__label__!hi hi all
+__label__!es %c7alguem sabe de um software igual ao %c4google sketchup para linux???
+__label__!upgrade i downloaded the feisty iso. how do i update my ubuntu edgy from it?
+__label__!upgrade how to upgrade ubuntu?
+__label__!anyone can anyone answer an oo calc question?
+__label__!es ola. como fao pra dar permissao a todos usuarios de modificar/visualizar uma pasta(na verdade um hd montado)?
+__label__!info stefg: yes, in the installer ,i explicitly pointed to my local repository
+__label__!upgrade crav: apt-get dist-upgrade
+__label__!fr !fr > doudou
+__label__!info is there any gtk mathematical function plotter?
+__label__!info kemik: sudo apt-get install ddd
+__label__!info in what language are the apps in linux here written ? for example xchat or network manager or whatver
+__label__!repeat %c13anyone that know's hot can i watch movies over the network with ubuntu ? i'm connected, ii see the file's but i cannot play them, "could not read from resource"
+__label__!offtopic what's the least common multiple of x-5 and x-1
+__label__!upgrade rubberhound: at least it should
+__label__!sound or what should i do
+__label__!info sgtmattbaker: if it's just the partition table that is corrupted you can almost allways recover that (and all the files)
+__label__!ask 2 questions
+__label__!anyone can anyone help me with wireless on feisty
+__label__!sound can someone give me some help with my sound in 7.04?
+__label__!fixres it seems that it's stuck at 60hz.
+__label__!anyone anyone have any help with an hdtv usb tuner?
+__label__!info i have some avi files with xvid mpeg-4 video and mpeg-1 layer 3 audio, is there any way i can burn them to a dvd or vcd in linux? i believe nero did it for me in windows.
+__label__!repeat zeroda1: inspect the config.log (it's cryptic) and quit repeating quickly
+__label__!ask can someone help me?
+__label__!info jordo23: package opnssh-server does not exist in feisty
+__label__!offtopic can somebody tell me how did unix trademark go from sco group to the open group
+__label__!fixres !caps | tcleval
+__label__!offtopic sera a tutti
+__label__!repeat peope who knows the best strategy game on linux?
+__label__!fr bonjour jai un probleme avec mon ubuntu quelqun pour de laide svp
+__label__!fr porfavor
+__label__!info dmhouse: note the trusted  capitals  you should look for deb package first.
+__label__!ask oskiiiiii: don't know the problem, so can't help
+__label__!it ciao a tutti
+__label__!es hay algun canal para espanish people
+__label__!hi hello all
+__label__!info does evolution have a mode to hide to the status area, and/or put a notification there when new mail arrives?
+__label__!de ich baue mit pbuilder ein paket, und setze hinter den pbuilder build-befehl den zusatz --extrapackages libglib-2.0-dev libgtk2.0-dev libxml2-dev, trotzdem werden diese pakete vor der kompilierung nicht installiert
+__label__!fr is there any french here ?
+__label__!sound i hear no sound in feisty fawn and i need to
+__label__!offtopic anyone here have a blog?
+__label__!info bugz_: package wxpython2.6-0 does not exist in feisty, feisty-seveas
+__label__!it salve
+__label__!de german ubuntu chat ?
+__label__!repeat "
+__label__!info sorry i didnt mean to
+__label__!repeat 
+__label__!info where can i get 915resolution?
+__label__!info jessid: icecast
+__label__!grub how can i edit grub to add a 2nd disk ( master) to dual boot
+__label__!de ich hab mal die usb gerte umgesteckt
+__label__!offtopic nubbie: this channel is support only. -offtopic for everything else :)
+__label__!fixres someone of u know good way how 2 change resolution settings ? i have 50hz ;/ my eyes is burn after couple hoers spending at computer
+__label__!repeat who knows a alternative link to: http://cisco.netacad.net/cnams/public/checker.jsp  ????
+__label__!anyone hey anyone have some expiernve setting up a multi user system?
+__label__!ask can someone help me?
+__label__!grub anyone know how to reinstall grub after the os has already been installed? mine seems to be corrupt/not working
+__label__!upgrade tommy: ah.  if you want 1.5, you'll need to upgrade (your entire system) to feisty
+__label__!sound i have no sound in feisty.  how would i go about troubleshooting?
+__label__!fixres oli: what are you kubuntu ir ubuntu
+__label__!info where is it afeter istallation?
+__label__!info bibagi, probably, but what exactly do you mean by server? gameserver, ftpserver,vncserver sshserver, mailserver, webserver,....
+__label__!es someone now any chanel about ubuntu in spanish?
+__label__!upgrade how can i upgrade my dapper server to fiesty?
+__label__!hi hi, folks!
+__label__!repeat does anyone know any good benchmarking tool that i can use to test out if my video card drivers are correctly set up on my hardware?
+__label__!repeat does anyone have the forum link to the bcm43xx-fwcutter walkthrough?
+__label__!fixres i'm on an nvidia gpu if that helps
+__label__!de hi i love you
+__label__!sound hi, can anyone help me sor out my sound issues, please?
+__label__!offtopic can anyone recommend a good cell phone ?
+__label__!fixres lookin fo some help adjusting my res ive tried xrandr the only option is 800x600 any help?
+__label__!es alguien habla espaol??
+__label__!anyone could someone spare a moment ?
+__label__!sound hello guys, i am having a problem with my sound, i am on fiesty. i hear the sound working at the log in screen but when i log it there is no sound and it says no sound gstreamer plugin controller found
+__label__!offtopic annnyway...
+__label__!info what is kenel version 7.04 ?
+__label__!info hittop: is there even a 2.6.19 kernel in the repos for feisty?
+__label__!ask can someone help me, i have some retarded questions.
+__label__!fixres how to get higher resolution?
+__label__!repeat kilohertz: don't repeat please
+__label__!ask anyone help me with external monitor on my laptop
+__label__!it ciao a tutti
+__label__!anyone can anyone here help me with my file saving problem?
+__label__!sound hey guys i got a hp pavillion dv2000laptop and when i upgraded to feisty the sound stop working, any idea on how to fix it? its a built in intel sound card
+__label__!info what is the best firewall for ubuntu
+__label__!offtopic i tried to install f4l and most of the options are not working
+__label__!offtopic my laptop does a very high pitched sound when i charge it..is something on its way to broke?
+__label__!sound hello, i having a really annoying issue. audio works on vlc and xmms using either alsa or oss output. however, no audio in amarok using either oss or alsa ( sometimes i get audio, but it is the first 2 seconds of a song repeating itself over and over), and also no audio from flash. anyone have any ideas? i am running xubuntu 6.10 with kernel 2.6.21.1.
+__label__!it qualche esporte puo aiutarmi con un bios
+__label__!upgrade mojowork, no
+__label__!sound need help with sound in ubuntu
+__label__!es quien habla en espaol
+__label__!info digital_k: yes.. thought so
+__label__!info package flashplayer-nonfree does not exist in feisty, feisty-seveas
+__label__!info crdlb: devils pie?
+__label__!offtopic anyone know where i can get some music
+__label__!grub hey anyone know how to rescue grub after reinstalling windows??
+__label__!info i'm looking to install lighttpd but its not listed in apt-cache / apt-get. my understanding is it'd be in an "unstable" branch... question is, where do i find out what this is and how to get it?
+__label__!repeat realz basicly  i was messing with my beryl setting when the next thing i know the bottom and top menu-es disappeared from the desktop now iv tryd delete the start beryl-manager in sessions manager and deleting my .beryl dir restarted with still no luck of them coming back im running out of idea please if someone can help?
+__label__!fr escuse me i am a noob
+__label__!sound frogzoo: what might be wrong with my sound?
+__label__!offtopic !offtopic pron00b, gerro, we should discuss this in #ubuntu-offtopic as it is no longer an ubuntu support issue
+__label__!fr ya des fr ?
+__label__!sound mar77i, is that a camera or software?
+__label__!es alguien habla espaol aqu???
+__label__!info hi folks -- what repos do i need to get the digikam plugins and the kipi plugins
+__label__!info argh, hang on
+__label__!es hay alguien que hable espaol?
+__label__!info seveas, then that is a problem
+__label__!upgrade is there a way to upgrade to fiesty through terminal?
+__label__!offtopic what was the name of the general ubuntu chat channel?
+__label__!ask hi, i am trying to install ubuntu 7.04 using debootstrap and need some help
+__label__!info ahmed: to mount an iso disc image, type  sudo mount -o loop <iso-filename> <mountpoint>  - there is a list of useful cd image conversion tools at http://wiki.linuxquestions.org/wiki/cd_image_conversion - always verify the iso using !md5 before !burning.
+__label__!anyone does anyone have experiance with mencoder turning jpg's into movies?
+__label__!ask bot help>?
+__label__!info sorry, i don't know anything about mc - try searching on http://bots.ubuntulinux.nl/factoids.cgi
+__label__!anyone 
+__label__!ask user19: it worked perfectly with me. i also specified the plugin packages to install and themes.
+__label__!info skywise: wine is a compatibility layer for running windows programs on gnu/linux. see https://help.ubuntu.com/community/wine for more information.
+__label__!es anyone  knows a help channel in  spanish ? about ubuntu ?
+__label__!ask hi can anyone help me with amule?
+__label__!sound does any one know how i can fix the sound drivers, i hear no sound, i use ga-p965-ds3
+__label__!hi hi
+__label__!repeat elyase: don't repeat yourself
+__label__!fr franais ici ?
+__label__!es hola
+__label__!sound hey, i'm having trouble with my sound card. lspci tells me "00:06.0 multimedia audio controller: ali corporation m5451 pci ac-link controller audio device (rev 02)"
+__label__!ask hey can someone help me rel fast so i dont have to reinstall?
+__label__!fixres i have an ati vid card, but the maximum resolution that's being shown in the resolutions is just 1024... anyone know how to fix this?
+__label__!offtopic http://img252.imageshack.us/img252/6371/1004418sd4.jpg
+__label__!es alguien puede ayudarme a instalar ubuntu 5.10 en un dusco duro externo?
+__label__!grub beg1689: i don't know any urls but there are bound to be howtos out there somewhere. it's not hard. the bootloader is called grub, and you just boot into your ubuntu partition using (e.g.) the alternate install cd, then edit the grub config and run grub-install against your drive.
+__label__!anyone has anyone installed ubuntu on a mac ppc g3?
+__label__!fr hi, i speak french
+__label__!de knnte mir jemand sagen, wie ich ein autostart programm aus ubuntu aus dem terminal heraus aus dem autostart enfernen kann, bitte?
+__label__!info ciaron: x|k|ubuntu-desktop
+__label__!info ikonia, ah i'll check that. jrib: the opencv library
+__label__!anyone can someone help me with chmod question?
+__label__!upgrade tell me the site address of upgrading from 5.10 to 6.04 ?
+__label__!anyone hi, is there anyone here with a dell inspiron 1405?
+__label__!ask help please
+__label__!upgrade spikeb  do you know of a link to this information
+__label__!info do you guys know of a program that can import *.pst files that were originally from microsoft outlook?
+__label__!grub i want to reinstall grub, but i cannot use the live cd because it can't login to x mode! is there anyway to reinstall grub using alternate cd? do u know any other solution?
+__label__!es hay alguien ah?
+__label__!es novella: #ubuntu-es
+__label__!offtopic or some an other torrent tracker?
+__label__!upgrade jdrake_: just use the same ubuntu ones you're currently using.
+__label__!hi hi
+__label__!de ich lege eine dvd ein und bind sie mittels 'platten einbinden' ein. dann zeigt mir nautilus zwei identische verzeichnisse /media/cdrom und /media/cdrom0. was soll das?
+__label__!fixres morfeene: i'm guessing vesa
+__label__!fixres whenever i exit a game or start ubuntu it reverts to 1024*768. why?
+__label__!grub anyone: how do i get ubuntu to dualboot w/xp? i installed xp and itsaid it had to deactivate the partiton with ubuntu on it
+__label__!fr quelqu'un peut m'aider a monter une partition d'un dd sata 2 250 go
+__label__!offtopic si busca ayuda en espaol por favor entre en los canales #ubuntu-es, #kubuntu-es o #edubuntu-es, all obtendr mas ayuda.
+__label__!es alguien podria ayudarme con ubuntu dapper
+__label__!de chuck: #ubuntu-de
+__label__!de hallo.. ich hab grad ubuntu auf meinem acer laptop installiert und bring das wlan nicht zum funtkionieren. hat jemand bock und zeit mir weiterzuhelfen?
+__label__!sound the problem is that i selected usb audio in system>preferences>sound but output still goes to the sound card that doesn't work. the way i know that the speakers work is that certain programs work like totem and others let me select which sound card like xmms and others let me select cards but not the usb card ( last.fm for linux )and others wont let me pick at all like flash player. so is it possible to disable the sound card that do
+__label__!es ?
+__label__!offtopic so is linux going to use gpl3?
+__label__!offtopic  whats the best portable gps system you can buy these days?
+__label__!es hay alguien que hable espaol?
+__label__!es hola estoy en los ordenadores
+__label__!fr des francais ici
+__label__!info which package for sun java provides /usr/bin/java ?
+__label__!repeat  someone knows how to get builtin wifi on acer aspire 7110 to work in ubuntu ?
+__label__!anyone anyone know much about ati cards?
+__label__!info any clock for my desktop? using ubuntu in vmware as guest
+__label__!fixres something i'm having a problem with: i have a widescreen monitor, and although i've configured xorg.conf right (i think), x seems to ignore it and display only in 800x600 (rather than 1440x900). i would be most obliged if anyone has any ideas as to what's going on
+__label__!upgrade i have a question, i am running 6.06 lts of ubuntu but i am wondering how i can upgrade to feisty fawn but i am having some problems doing it.
+__label__!anyone wren: #alsa
+__label__!upgrade mc44: yeah, its not that i want the bleeding edge software, but it'd be nice not having to re-install every few months to get updated software
+__label__!ask i'm sooooo confused about setting up a home network. could someone answer some very basic questions, please?
+__label__!grub how do i show grub the vista partition on another drive?
+__label__!info i need them to install banshee
+__label__!repeat i ordered the ubuntu cds, just got them, but when i try to lunch it (2nd pc) for first 3 times there was some erros, now its asking some login name.  who can help me with this problem?
+__label__!es hola
+__label__!grub anyone knowledgeable on recovering grub on a vista machine?
+__label__!ask student_: i am ubotu, all-knowing infobot. you can browse my brain at http://bots.ubuntulinux.nl - usage info: http://wiki.ubuntu.com/ubuntubots
+__label__!info hey guys does any one know of a tool to be able to rip streaming real video
+__label__!info kane77: i use encfs
+__label__!anyone can anyone help me with my xfce session?
+__label__!de wie bekomme ich jalbum jetzt gestartet
+__label__!sound i got about 3 responses
+__label__!repeat install help please.  i started at midnite last nite, had to abort twice by 430 am, now its 146pm here in not so sunny south florida (boca raton), and i'm still stuck at the partition.  i aborted last nite because feisty seemed like she was going to delete all my docs and files instead of migrating them; can someone please help me through this??? :) i want to learn the ubuntu way.
+__label__!de hallo ich bekomme iriverter nicht gestartet. folgedes wird gemeldet: http://www.ubuntuusers.de/paste/11887/ kann mir jemand dabei helfen. danke im voraus
+__label__!offtopic www.sex.com
+__label__!es hola me llamo laura
+__label__!upgrade eric: its a live cd
+__label__!ask hey sum1 free!!??
+__label__!sound kprofthreat: try the sound troubleshooting link i think it has a script too. ask crimsun if you see him hes the man on sound issues
+__label__!sound how do i get my laptop to play music, video, etc through the onboard (intel) soundcard?
+__label__!ask can someone anser a quick question i have about vnc
+__label__!grub hello all.  quick question.  i lost grub can i re-install it from the live or alternate cd?
+__label__!info uberhalogen: apt-get install openssh-server
+__label__!es hola!!
+__label__!es help! name of the channel in spanish please!
+__label__!upgrade in*
+__label__!fr oh, nvm
+__label__!hi ?
+__label__!es buenas tardes
+__label__!fixres i still don't have the right resolution
+__label__!es ????
+__label__!hi hello
+__label__!repeat my default movie player is totem. i need to switch it to mplayer. is removal of totem best way to do this?
+__label__!info ... i'd settle for one resolution mode - maybe use horizsync/vertrefresh in mointor section?
+__label__!repeat herrrooooooh!!! is there a way to sync pocket pc with ubuntu?!!!!!?!?!?!
+__label__!hi hello?
+__label__!hi hi all
+__label__!de hows the german chan?
+__label__!fr bonjour moi je veux simplement copier un dossier dans usr/share/amsn/skin  mais il semble que je ne suis pas le propritaire. comment faire ?
+__label__!es yo no puedo
+__label__!fr 
+__label__!es some body speak spanish?
+__label__!ask hey any body there?
+__label__!grub voorhees86: it's a problem with your grub configuratioin
+__label__!ask hey i was looking to get some help with installing ubuntu using a usb drive rather than the common cd installation. could anybody give me a hand?
+__label__!ask cafuego isn't around by any chance, is he
+__label__!es ayuda en espaol, thanks
+__label__!grub so, i installed windows on another partition and it kinda fuxxored my mbr. how can i fix it?
+__label__!de german here ?
+__label__!ask can anyone help me with a network install via my local mirror?
+__label__!offtopic hellow, what is the non help chatting version of this channel?
+__label__!info mrotacon, you might look at mencoder
+__label__!repeat sorry, i don't know anything about repeat hazarath - try searching on http://bots.ubuntulinux.nl/factoids.cgi
+__label__!sound hultiz: play something and launch alsamixer and mess with the volume or
+__label__!fr bonne soire
+__label__!hi hi ubuntu users :)))
+__label__!offtopic does anyone listen to blink 182
+__label__!hi hi all
+__label__!anyone does anyone here run pypanel?
+__label__!upgrade i mean
+__label__!fixres trying to configure x to get 1024x768 or better on my dell m990 monitor. video card is an onboard nvidia; running the nv driver. i've got only 800x600 available after running dpkg-reconfigure xserver-xorg ... could use a hand.
+__label__!grub are there any grub experts around in here?
+__label__!grub lordlimecat: no, because the mbr still has grub stuffs in it.
+__label__!fixres whenever i boot ubuntu my resolution goes back to a lower res. than i have it set at
+__label__!anyone is there any one in here that knows a lot about installing drivers for linux or more over remving or reverting to older drivers ??
+__label__!repeat roundyt1: nope
+__label__!repeat how do i go on an ap w/ iwconfig myself?
+__label__!es :)
+__label__!offtopic anyone know about dreamlinux
+__label__!offtopic anyone palnning on attending defcon.org next month?
+__label__!grub tunganet: edit /boot/grub/menu.lst
+__label__!es alguien me puede decir cul es el canal ubuntu en espaa??
+__label__!anyone hi guys. does anyone have experiences with dualhead on an intel chip?
+__label__!ask hey all plz i need urgent help ,,,,
+__label__!offtopic or just faq's
+__label__!hi murning
+__label__!info is there any way to tell what package, if any, a file belongs to?
+__label__!fr y a des francais?
+__label__!fr where can i find french server please?
+__label__!fr bonjour, quelqu'un sait-il comment installer le bureau de la distribution symphonyos sur ubuntu 7.04 ?
+__label__!es alguien sabe espaol??
+__label__!sound ok  how about sound capture i cannot get any applications to recognise any sound input.
+__label__!grub i formatted my windows and lost my grub menu and i cant seem to put it on again can someone help me?
+__label__!fr hi, is there a french help room for ubuntu please ?
+__label__!ask any xubuntu experts here?
+__label__!info the xgl theme
+__label__!es alguien habla espaol
+__label__!hi hi!
+__label__!sound can anyone please help me with my sound problems?
+__label__!anyone hay can any one help me
+__label__!ask hey, i have got a problem with ubuntu 6.10 - should i post it here? (its hard to google for that)
+__label__!offtopic i'm having a devil of a time, when i do apt-get update it's giving me 404 errors; i'm using simplymepis and i was wondering if anyone could give me some insite
+__label__!ask hi there. i have a few questions about firefox in ubuntu 6.10.
+__label__!hi hey guys
+__label__!ask i have a question regarding deploying ubuntu on several machines for casual users
+__label__!upgrade futnuh: yeah.  that's why they call it upgrading ;)
+__label__!es un  canal en espaol
+__label__!ask i have a rather urgent problem to ask you guys about.
+__label__!anyone can someone help me with a connection problem please
+__label__!fixres ppl back in windows i got used to a high resolution, but why does ubuntu keep me stuck to a resolution of about 600*800 ??
+__label__!grub hey, if i wanted to un-duelboot my laptop, how would i do that?
+__label__!offtopic wow.. apple bought cups..
+__label__!upgrade whats the easyest way?
+__label__!ask help me!!!please
+__label__!anyone anyone familiar with airlink101 awll3026???
+__label__!es soy de venezuela
+__label__!hi hello
+__label__!upgrade jordan_u: yeah
+__label__!upgrade jordan_u: i want to upgrade to gutsy using the update manager
+__label__!ask bo...what is your problem?
+__label__!upgrade seoke: you upgrade to 6.10 and then to 7.04
+__label__!hi hello
+__label__!hi hello!!
+__label__!fr bonjour ya des francais ?
+__label__!fixres hey guys how to change my screen resolution to 1115 x 864 coz on the screen resolution  menu im able to change it just for 800xx600 or 1280x1024
+__label__!info just a stupid beginners question ;) where do i get gstreamer0.10-plugins-ugly (universe)? i want to use the mp3 codec but i can't find this damn gstreamer plugin...synaptic only servs the "good" packages ...thanx for your help in advance
+__label__!repeat can someone help me? it's a sound issue. onboard nf3 sound on 32bit ubuntu w/ feisty. http://ubuntuforums.org/showthread.php?p=3030313#post3030313
+__label__!de hallo, habe viel gegoogelt ohne ergebnis: gibt es ein tutorial um von ubuntu aus auf einen windrucker im lan zuzugreifen?
+__label__!offtopic where the ubuntu chat room at?
+__label__!hi hello
+__label__!info sorry, i don't know anything about mtink - try searching on http://bots.ubuntulinux.nl/factoids.cgi
+__label__!it salve a tutti
+__label__!ask anyone out there that could help me with a dual boot question when installing 7.04?
+__label__!fr bonjour
+__label__!offtopic who was interested in harry potter? it's legit, but it's photos of the pages, hard to read.
+__label__!info bruenig: server
+__label__!de does anyone know if there is a german ubuntu chan????
+__label__!hi hi all
+__label__!es para ir a ubuntu en espaol
+__label__!info pricechild, i know of new features, and more importantly, the old version cannot read data files created by the new version.
+__label__!offtopic !offtopic  kitche
+__label__!es spanish
+__label__!ask xenocide, maybe #bash will be more helpful
+__label__!hi hello
+__label__!upgrade where can i get a howto on how to upgrade my server 6.10 to 7.04?
+__label__!upgrade badar: no, you can not go to feisty from dapper directly you have to go to edgy first
+__label__!anyone can anyone help me with tovid?
+__label__!repeat is australian ubuntu mirror down ?
+__label__!fixres hey my resolution is not normal, it does not recognize the driver
+__label__!es hola
+__label__!hi hello all
+__label__!fixres magnetron: i don't care about proprietary drivers.
+__label__!ask emperor886, what is your issue
+__label__!ask can anyone help me get avant-window-navigator to work properly?
+__label__!grub anyone know of a quick tutorial for grub?  have a friend who installed a 500gb drive, and needs grub to re-scan for operating systems.. i forget how to do it.  i know it's something in /boot/grub, anyone know?
+__label__!de dose an german ubuntu channel exist
+__label__!grub douglas52392: yes
+__label__!grub hey guys i just got back from a nasty issue with my laptop. im dual booting windows and ubuntu. one thing led to another and i had to install a boot manager called "gag" how do i go back and reinstate grub?
+__label__!fixres ro1: what do you mean? i have those resolution using feisty
+__label__!fixres might anyone be able to tell me how to make video resolutions above 1280x1024 available?
+__label__!grub falstius, could you walk me through it?
+__label__!repeat i have file arabic open in windows but it show me not arabic when i open in gedit how i can slove that and thnx ;) and one can help me ???plzzz
+__label__!es !es | cubun
+__label__!es alguien habla espaol?
+__label__!repeat video not playing in totem player. graphics-->ati 9550
+__label__!es speak spanish ?
+__label__!info sorry, i don't know anything about xine - try searching on http://bots.ubuntulinux.nl/factoids.cgi
+__label__!hi hello
+__label__!fixres puvneet, it must be it. you certainly cannot increase your resolution.
+__label__!sound hi all! i need help, please! my sound died after upgrading xubuntu to feisty! neither embedded sound chips or the audigy 2 zs works... im stuck troubleshooting and need help!
+__label__!hi hello
+__label__!upgrade ?
+__label__!hi hi
+__label__!info i guess i could check the internets if i weren't lazy
+__label__!ask anyone around?
+__label__!sound fredsa: chipset?
+__label__!it ho riavviato dal live, ho dato sudo fdisk -l, le partizioni le vede, e adesso???
+__label__!de ich mchte einen fehlerbericht an launchpad schreiben mit einem groen (50 kb) daten-anhang. an welcher stelle kann ich diese daten speichern, so da sie auch nach > 1 monat noch dauerhaft anderen launchpad-lesern zur ansicht zur verfgung stehen?
+__label__!ask i have a question about ethernet name assignment.
+__label__!sound i cannot get alsa sound to work under ubuntu
+__label__!hi hello?
+__label__!de hallo kann da jemand germany
+__label__!hi hello
+__label__!ask can someone help me in a pm?
+__label__!info rar is a non-free archive format created by rarsoft. for instructions on accessing .rar files through the archive manager view https://help.ubuntu.com/community/filecompression. there is a free (as in speech) unrar utility as well, see !info unrar-free
+__label__!info el_isma, maxima i think
+__label__!ask can someone help?
+__label__!fixres fragged: you can edit /etc/x11/xorg.conf and change the driver to "vesa" when it talks about your video card
+__label__!ask i got a problem about my uhm installation of packages..
+__label__!anyone hi. can anyone help me a bit with wine/cedega?
+__label__!es y donde estan esos canales?
+__label__!es hola, me cai xd
+__label__!ask erf3d, with what?
+__label__!anyone anyone*
+__label__!anyone anyone here using irssi?
+__label__!es olaaaaaaaaaaaaaaa
+__label__!info how i can install apche 2 ?
+__label__!info jetscreamer i received an error when i used startx how can i configure my x?
+__label__!repeat hello again when i use startx i receive this error: xf860openserial: cannot open device /dev/input/wacom. what should i do? thanx
+__label__!es hola tengo un problema con ubuntu y modem speedtouch 330, ya lei mas tutoriales que libros en mi vida y si alguien puede ayudarme seria genial
+__label__!hi hello.
+__label__!grub i have two hard drives, with ubuntu already installed on one.  if i install windows on the other, it will take over the mbr, correct?
+__label__!info does anyone know a good game server browser that supports quake2? something like the all-seeing eye or gamespy for linux? thanks.
+__label__!upgrade charlie_: sudo apt-get dist-upgrade
+__label__!info what do i need to install for that? i dont see it in the printer selection area.
+__label__!fixres why  i can't change my resolution? i toke screen resolution tool and there is only 640x480 in list... (i installed kde and i used it, there i changed resolution, now it's on gnome too and i can't change it)
+__label__!ask can anyone answer me a question?
+__label__!es algun espaol ?
+__label__!info is there a way to let *any* user mount a samba share //computer/sharename on /network/computer/sharename ?
+__label__!ask palawan, fine go ahead
+__label__!es sorry, i don't know anything about es galpa - try searching on http://bots.ubuntulinux.nl/factoids.cgi
+__label__!fr anyone speak french and can help me with the file reception on xchat???
+__label__!anyone epp: yes
+__label__!de sucht einer ne gruppe????  punkte sind egal
+__label__!fr salut ! avec festy fawn et une carte nvidia geforce fx5200, je ne dpasse pas 60 hz de frquence de rafraicissement pour une rsolution d'cran de 800x600... est-ce normal ?
+__label__!ask is there a networking channel somewhere on freenode? i am sorry i posted this here but i dunno where else to ask.
+__label__!ask some help please?
+__label__!es hola?
+__label__!sound pricechild bad english i speak meow meow. my sound not work
+__label__!ask i have just a quick question
+__label__!es spanish
+__label__!upgrade flannel: upgrade to dapper...
+__label__!ask any1 mind helping with pidgin?
+__label__!sound and i havent a clue as to why there is no sound :(
+__label__!sound pls help me i can't hear any sound
+__label__!sound matty_v: are you sure it's not just really quiet?
+__label__!es hola
+__label__!info thoreauputic: i'll try that
+__label__!it sono nei casini...
+__label__!info i cant seem to find the apt entry for   mdadm raid tool
+__label__!fixres strog_: the x window system is the part of your system that's responsible for graphical output. to restart your x, type  sudo /etc/init.d/?dm restart  in a console - to fix screen resolution or other x problems: http://help.ubuntu.com/community/fixvideoresolutionhowto
+__label__!grub hi, i currently have 7.04 installed and i wanna dual boot with winblows so i can play age of empires. after i've installed windows, what is the easiest way to reinstall grub?
+__label__!es alguien me puede ayudar?
+__label__!fr salu, je viens de voir a la teler un logicielle qui permet de voirs des chaine tv trangeres , quelquin le connait ?
+__label__!info dabeowulf, the ascii is not too bad, and very lightweight for sure
+__label__!upgrade seveas: is there anyways i can upgrade to gutsy without a reinstall? id liket o keep all my config
+__label__!ask !ask | cheekio
+__label__!repeat why doesn't the smbfs paths i have put in fstab mount at startup? this is my fstab file: http://www.pastebin.ca/663706 .. if i type "sudo mount -a", they all mount... but i want it to do it automatically on startup.
+__label__!grub how do i re-install grub after installing xp? (after ubuntu)
+__label__!de kennt einer von euch ne gute umgebung fr java ausser eclipse / netbeans?
+__label__!it sorry chan for italian ubuntu?
+__label__!anyone anyone here use utorrent in wine
+__label__!info ion: there's chkrootkit
+__label__!ask hello ! i need an urgent help.
+__label__!grub is there a way to restore grub to default settings?
+__label__!offtopic can someone please test out my webpage? the url is www.danielfrombrisbane.com    please let me know if it works? + read the journal/diary!!!!! incredibly interesting data
+__label__!offtopic i was wondering if somebody could tell me if anybody could teach me how to use aircrack
+__label__!offtopic ouch
+__label__!repeat anyone know how to change the color for the bar behind file edit view etc, and only that color?
+__label__!sound can anyone offer some sound card advice to a newbie?
+__label__!sound hi, i cannot hear wav startup sounds (and all the rest for that matters), gnome cannot seem to read the .wav sounds , i searched in forums, looks like it was a bug in hoary, i'm on feisty .. someone has an idea ??
+__label__!repeat how can i install mcafee site advisor on my ubuntu?
+__label__!anyone could anyone help me with a port forwarding problem i'm having in feisty?
+__label__!es !es | vero1
+__label__!repeat how do i add virtual users to vsftpd server?
+__label__!grub my grub got broken when i was installing ubuntu on my laptop.  how do i re-install it?
+__label__!grub !grub | shoofle
+__label__!ask :-r
+__label__!hi hallo!
+__label__!offtopic jesson_newbie: help! mez, ljl, elkbuntu, imbrandon, dbo, gnomefreak, hobbsee, rob, ompaul, madpilot, burgundavia, seveas, carlk, crimsun, ajmitch, tritium, nalioth, thoreauputic, apokryphos, tonyyarusso, pricechild, amaranth, jrib, jenda, nixternal, myrtti, mneptok or pici
+__label__!hardy pricechild: :)  just seeing if there was already one
+__label__!fr bonjour, quel est le lien pour dialoguer en francais? merci!
+__label__!offtopic why we lose so many hours doing something when windows can do it more easy and fast ?
+__label__!hardy sorry, i don't know anything about harty - try searching on http://bots.ubuntulinux.nl/factoids.cgi
+__label__!anyone anyone having trouble when using sudo command ?
+__label__!repeat hi, i'm runninging ubuntu feisty with an ati 1950xt, i installed the latest ati drivers but fglrxinfo shows i'm using mesa drivers, how do i fix this?
+__label__!es algien sabe spanish
+__label__!sound what is the ubuntu website that troubleshoots sound issues?
+__label__!anyone anyone use avant
+__label__!de ops, i didnt remember the german ubuntu irc server - can you help me?
+__label__!info syntax_: sudo apt-cache search wifi-radar
+__label__!it italiano_
+__label__!de -r
+__label__!info randhir: as said before: try vlc
+__label__!upgrade osirisx11: you might also want to know, that you'd reeive some 50 megabytes of updates daily, either breaking things further or fixing them
+__label__!info i must share all folders on my network every time i restart one of my pc i have 3 pc in my home network , any idea
+__label__!ask can somebody help me with airsnort?!?!
+__label__!info in index of /pool/free/h/ i just found something called "hot-babe", now i aint trying to be stupid but i know thats not a media codec or is it?
+__label__!it ciao a tutti
+__label__!repeat it is just sitting at the screen now
+__label__!ask ikonia, all night long
+__label__!grub my grub is messed up and i need to reinstall it.. at some point someone gave me a short command to run in terminal that fixed this problem before but i don't remember what it was.. does anyone have any idea...???
+__label__!it anyone from italy?
+__label__!es does any of you speak spanish ???
+__label__!offtopic can anybody tell me where to find a good proxy?
+__label__!es de donde ers?
+__label__!sound help, i got no sound!
+__label__!grub idk wat to do
+__label__!hi sorry, i don't know anything about hi nameless - try searching on http://ubotu.ubuntu-nl.org/factoids.cgi
+__label__!anyone has anyone installed the libdvdcss library manually to fix dvd playbacks?
+__label__!ask anyone in here running ubuntu-server?
+__label__!info frogzoo: fbi is the framebuffer one
+__label__!hi hi
+__label__!offtopic fyi guyz if anyone has any need for a host i will donate space on dreamhost  to any html based ideas as long they are in accordance with spreading ubuntu and it's principle plan and it's own fundamental goals
+__label__!fixres its like dpkg something
+__label__!fr y a t'il des franais sur le chan ?
+__label__!offtopic neumind: #ubuntu is the ubuntu support channel, #ubuntu+1 supports the development version of ubuntu and #ubuntu-offtopic is for random chatter. welcome!
+__label__!es una pregunta alguien conoce un traductor (ingles-espaol)
+__label__!es alguine me puede ayudar
+__label__!grub what's the grub 'kernel' command to boot? ubuntu wouldn't install grub correctly and when i tried booting it it wouldn't recognize the root /dev/sda1
+__label__!ask can anybody help me with wpa+feisty+networkmanager?
+__label__!de ist jemand da wo deutsch sprichtz
+__label__!fr bonjour jerome8368 :)
+__label__!fixres how can i check if its installed correctly ?
+__label__!info nm. rtorrent is for dapper, is there some bittornet client for feisty ?
+__label__!grub hi all, windows overwrote my mbr, im booted on the livecd, how do i get grub to overwrite it to allow for dual boot?
+__label__!offtopic do you guys mind looking at my website and giving me suggestions for improvement; http://navetz.com
+__label__!info somebody knows how to install or update firefox to the version firefox-2.0.0.6.tar.gz?
+__label__!fixres even after configuring xorg.conf, i found that the system automatically rewrites the settings with ones that are not compatible with my monitor
+__label__!es vivabenfica: es tuga?
+__label__!offtopic good news! distrowatch is back up and running!
+__label__!hi hi!
+__label__!grub hi can anyone help me figure out what i'll need to do to restore grub after a post-linux winxp install? i know it's going to overwrite the mbr
+__label__!offtopic watch brokeback mountian!
+__label__!sound i am trying to get sound to work on my laptop.  can anybody help?  newbie here.
+__label__!de hi all, some german speaking inside?
+__label__!ask sorry, i don't know anything about ask xyzzy - try searching on http://ubotu.ubuntu-nl.org/factoids.cgi
+__label__!es alguien en espaol
+__label__!ask anyone here think they can help me?
+__label__!ask help plizzzzzzzz
+__label__!sound currently when it plays music, is sounds ... wrong, cant explain how it sounds
+__label__!es hola
+__label__!it come faccio a leggere dalla bash un file che comincia con -?
+__label__!info evaluate: i think that that's hardcoded into the kernel... if you want more flexibility in command line try 'screen' the best app in a linux box
+__label__!de spricht hier wer deutsch? :x
+__label__!es anybody speak spanish?
+__label__!info sorry, i don't know anything about ubfi xchat - try searching on http://ubotu.ubuntu-nl.org/factoids.cgi
+__label__!ask help
+__label__!es do you know any spanish channel?
+__label__!fr j'aimerais me dbarraser de kubuntu-desktop, mais quand je fais "sudo apt-get autoremove kubuntu-desktop" le shell m'affiche que le paquet n'est pas install !?
+__label__!sound hi guys. pls help me - sound doesn't work anymore!
+__label__!it buona seera a tutti
+__label__!info does anyone know how to make a dvd iso image suitable to play in a home dvd player?
+__label__!hi hello
+__label__!info !rar > badpenguin86 (read the private message from ubotu)
+__label__!grub hi, i accidently restored mbr and i can't boot in linux anymore, is there a quick way i could reinstall grub?
+__label__!hi andra, hi
+__label__!offtopic * ?
+__label__!info wow
+__label__!it sera a tutti
+__label__!sound hey  can any one  help me out i just installed feisty fawn and sure enough i have no sound
+__label__!hi hello from vancouver, everyone
+__label__!offtopic can rapidshare.com be free?
+__label__!upgrade juno: yes you can dl the packages from internet
+__label__!it italiani ci sono x caso
+__label__!es aqui no se escrbe en espaol?
+__label__!info anyone know how i can get a video fiel from my mini-dvd from my camcorder? (its got the video_ts, audio, etc.. folders). i want to be able to get an .mpeg or .ogg for each chapter in the .vob files.. any idea?
+__label__!ask tripppy: think not, i could be wrong but doesn't the os need about 2.5 gb? you could pare it down i suppose tho
+__label__!info hmm, how do i get gtk-2.10?
+__label__!info sorry, i don't know anything about aptoncd - try searching on http://ubotu.ubuntu-nl.org/factoids.cgi
+__label__!sound its a laptop
+__label__!es hay algun canal de espaa?
+__label__!info anyone know how i can configure a joystick (not install, i want to edit the deadzone, calibrate, etc)?
+__label__!ask hey i would like a hand with something if i could>?
+__label__!ask hey guys, i got a question if anyone is okay with helping me out
+__label__!hardy hjmills, gutsy gibbon
+__label__!info can anybody tell me how to go about finding open ports on my machine?
+__label__!ask can anyone help me with a webcam problem :?:)
+__label__!ask can i ask a question but questions
+__label__!es ubuntu espao
+__label__!de german
+__label__!hi hello
+__label__!ask rulr, if you want help ask your question to the channel
+__label__!ask i have a partitioning question
+__label__!hi hi
+__label__!ask can someone with good all around knowledge about ubuntu pm me please
+__label__!hi hello
+__label__!sound ader10, have you gone through !sound ?
+__label__!grub i installed ubuntu first, then windows, but now i can't get grub going again
+__label__!info can someone recommend me a proggie to monitor my core 2 duo temps etc?
+__label__!fr i have not java and i'm like install his
+__label__!offtopic anyone wanna play wormux? :d
+__label__!de hi, da bin ich wieder... hat leider nicht geklappt
+__label__!es hola =)
+__label__!ask john117 ask away.
+__label__!fr salut :)
+__label__!repeat sparc32, anyone??
+__label__!info how to burn svcds in ubuntu?
+__label__!repeat fer_re, afaik closed just means there isn't anything using it
+__label__!fixres my x-windows screen resolution have only 800x600 mode selectable (geforce 4 mx). how to fix that? :-/
+__label__!hi hi
+__label__!grub hello, i just installed ubuntu 7.10 on a secondary hd of mine. i have the primary one (that is running now), with debian installed, and grub on it. when i installed ubuntu i unchecked the option to re-install grub in order to prevent any mess ups. i would appreciate any references you could get me to manually add the ubuntu image to the grub that is on the primary hd
+__label__!it non so che canale raggiungere...
+__label__!info jdahl: depends on your understanding of /simple/ :-) ...
+__label__!fr lu les gars!!
+__label__!ask can anyone help with a menu problem?
+__label__!hi hey folks
+__label__!sound !sound > badelvis (read the private message from ubotu)
+__label__!fr bonjour, o diable puis-je modifier ma variable d'environnement path pour lui rajouter un chemin ?
+__label__!offtopic the mac os is unix based?
+__label__!es hola algun espaol
+__label__!offtopic my god i will never buy a game through steam ever again
+__label__!it ciao a tutti
+__label__!offtopic will kde4 be in hardy
+__label__!hardy whats the next version name? =]
+__label__!upgrade trpr: no, use the update-manager
+__label__!es hola desde espana, alguien que sepa hablar espanol?
+__label__!ask can someone please h elp me
+__label__!repeat dot_: please don't shout! we can read lowercase too.
+__label__!it le canne!!!!!!!!!!!
+__label__!upgrade is there a "update" to gutsy (i'm currently running fiesty) and don't wanna lose all my settings and intsalled programs that were annoying to install.
+__label__!upgrade anyone feel like helping me get 7.10 x64 on my laptop?
+__label__!hi hi
+__label__!de hello, can you tell me the channel for german help?
+__label__!ask seth: a large amount of the first questions asked in this channel start with "does anyone/anybody..."  why not ask your next question (the real one) and find out?
+__label__!repeat i just recently upgraded to a p945 chipset core 2 duo and can no longer load any of my ubuntu cds when i try to boot it keeps giving me emask timeout action frozen errors i believe it is an error with my sata/ide bush, anyone encountered this problem?
+__label__!repeat anyone know how to mount .mdf/.mds in ubuntu? i've been trying to find a solution for this for hours on google, but cdemu refuses to be compiled and converting it to .iso with mdf2iso just makes the file unusable as well
+__label__!es hola buenas tardes necesito ayuda para una configuracion
+__label__!es cual es el chat en espanol?
+__label__!ask can anybosy help me real quick?
+__label__!offtopic is there an off topic ubuntu channel?
+__label__!anyone sorry, i don't know anything about anyone hnbc34 - try searching on http://ubotu.ubuntu-nl.org/factoids.cgi
+__label__!fixres may i ask u smth guys? need som advices how to setup my monitors sync - i just cant to set up higher hz than 60hz or 70hz... can some1 help me?
+__label__!grub what should i do
+__label__!fr bonjour tout le monde
+__label__!ask is there anyone who can help me with a boot problem after installing gusty in a dual boot scenario with xp??
+__label__!fr c'est seulment francaise ici?
+__label__!fixres can some one tell me how to fix my screen not that it bug up with the newer up dates\
+__label__!hi hi
+__label__!es cuando inicia el boot d ubuntu me sale eso no se puede presentar en este modo
+__label__!fixres can anyone tell me how to alter gdm's resolution settings?  my resolution is correct in regular gnome but not gdm
+__label__!es aew galera, alguem sabe me dizer qual pacote eu instalo pra poder colocar widget no meu gnome!!! ??? to usando ubuntu 7.10 !!
+__label__!it bsera a voi tutti
+__label__!es hola alguien habla espanol
+__label__!hi hi
+__label__!info genii thnx :d .. i have been playing since 1999 and have just switched for linux for a year, kinda addicted to the game, hence the need of wine :p
+__label__!ask help
+__label__!fr j'ai enfin resolu mon probleme de carte graphique
+__label__!es speak spenol?
+__label__!grub stavros: you could follow the instructions from "lost grub after installing windows"
+__label__!it ciao a tutti sono nuovo mi aiutate ad installare la lingua italiana?
+__label__!es en espanol
+__label__!ask who wants to help meeeeee
+__label__!es pleace send me the link tu ubunto in spanish
+__label__!upgrade astro76: unless there's a way to do an interrupted installation over a few weeks on a 14k unstable link
+__label__!grub thks
+__label__!info erusul: i have a harddrive that the partition disappeared, and i was wanting to save the data.
+__label__!fr bonjour
+__label__!repeat for some reason on my system monitor my swap memory and regular memory seem to be switched and my box is running sluggish is there a way to change the specs for memory, i havent done this in a long time so forgive me
+__label__!ask !ask fsdfsdf
+__label__!ask lmdv, terminal > gnome-session-properties,  add pidgin to startup programs
+__label__!repeat lekremyelsew: don't ask to ask a question. just ask your question :)
+__label__!offtopic is there somoone from czech?????
+__label__!repeat what do the security emails do besides that they tell you there is a security hole in some code, and can i patch it or do i have to wait for an update ??
+__label__!fixres i have tried both nvidia-glx-new and the proprietary blob
+__label__!offtopic sorry preaction
+__label__!info jack: i do not think that wqould work
+__label__!repeat jsschmid: the people here are volunteers, your attitude should reflect that. answers are not always available. see http://wiki.ubuntu.com/ircguidelines
+__label__!info how the heck do i get into a cvs? i cant find a cvs client in the repos
+__label__!anyone taras: i have.
+__label__!grub mainly, i think i accidentally installed my grub to my slave drive rather than my master; thus my grub is on one drive and my windows/ubuntu partitions are on the other. is there any way to move the grub to the master without reinstalling one/both oses?
+__label__!it ki ce italiano?
+__label__!offtopic that easy huh?
+__label__!grub maxagaz: grub shell
+__label__!grub sentix: dual boot instructions: x86/amd64: https://help.ubuntu.com/community/windowsdualboothowto - macs: https://wiki.ubuntu.com/macbookpro https://wiki.ubuntu.com/yabootconfigurationformacintoshpowerpcsdualboot
+__label__!fr what channel for ubuntu fr
+__label__!it any italian??
+__label__!info itchyhobo: clara
+__label__!es hola, hay alguien que habla espanol ????????????????????
+__label__!es alguien es espanol
+__label__!es porfavor..
+__label__!hi hi
+__label__!ask fuck!!!! a need help...atetion please!
+__label__!sound can someone help me? im having problems with sound...
+__label__!sound my sound has not been working since forever, that's the only reason why im asking about a newer kernel
+__label__!sound i`m having sound problems on a hp pavilion dv9525. no sound when i use the live cd, and no sound on my installed ubuntu.
+__label__!it rega scusate che vordi sta cosa........... montare le partizioni presenti sul disco (/, /boot e /swap)
+__label__!hi hi
+__label__!es holaaaaaaaaaaaaaa
+__label__!es hola sanda
+__label__!hi hello . new gutsy user here
+__label__!hi hey all
+__label__!sound does ubuntu do sound?
+__label__!es holas alguien habla espanol?
+__label__!fr bonjour, j'ai actuellement windows et ubuntu sur mon ordinateur. je voudrais garde uniquement ubuntu. puis je formater avec le cd windows sans installer windows ??
+__label__!grub i needed to fix grub, so i set it up on the mbr. how can i get it so that my /boot folder works again?
+__label__!offtopic can we carry weapons in this channel??
+__label__!fr ubuntu fr ?
+__label__!repeat when i run lsusb i get no output and it freezes! how to fix this?
+__label__!es pajaro, estas hay?
+__label__!offtopic <royan> i have god's cellphone.
+__label__!repeat brian__, you trying to run fglrx with your mobility 9000?
+__label__!info can someone give me the name of a .rar file "urrarer"?  i found "rar" in package manager but it says it's only a demo...can't find any free ones.
+__label__!grub if i were to put vista on my computer, i would need to boot into the ubuntu live cd and type install-grub in the terminal right? then add vista to the boot config?
+__label__!fixres hi, how do i set the screen resolution of the log in screen?
+__label__!ask blackfoxok, no, remain silent and wallow in self pity
+__label__!es holas alguien en espanol
+__label__!de hi, sagtmal funzt der drucker ip4200 von canon native
+__label__!sound just installed kubuntu 7.10 on a laptop and everything seems to work fine (including wifi) but the sound sysyem: i can't get any sound! never had any sound problems before in linux, so i dunno where to start from....  any help?
+__label__!info stefg: in not sure, how do i find out?  how to i do it?
+__label__!grub yo. what are the defaults for grub when booting xp and vista
+__label__!info people i want to download the gnu debugger through synaptic, can i add the website i want to download it from in the software sources?
+__label__!offtopic any one have some experiences in hack challanges?
+__label__!fr anyone here speak french
+__label__!hardy where can i get hardy alpha???
+__label__!info dev_noob: gpg is the gnu privacy guard.  see https://help.ubuntu.com/community/gnuprivacyguardhowto and class #8 on https://wiki.ubuntu.com/classroomtranscripts
+__label__!info soundray, seahorse?
+__label__!hi hello
+__label__!grub i'm having issues with grub installer on nubuntu
+__label__!it ciao a tutti, io ho una scheda video intel gma x3100 e ho installato xgl invece di aiglx. come installo aiglx?
+__label__!upgrade how do i upgrade to newer versions of ubuntu
+__label__!hi hi
+__label__!es como puedo ver el modelo de mi disco duro en consola?
+__label__!es hola ahi alguien q me ayude xd
+__label__!grub how can i add drives to the grub boot menu?
+__label__!es hola
+__label__!grub munk_: sounds like you didn't install grub properly to the mbr, or you instlaled windows last.  follow the first link here:
+__label__!it ciao ragazzi
+__label__!hi hey all
+__label__!hi hello all
+__label__!fixres anyone wanna help me?
+__label__!fr deutschsprachige hilfe fuer probleme mit ubuntu, kubuntu und edubuntu finden sie in den kanaelen #ubuntu-de, #kubuntu-de, #xubuntu-de und #edubuntu-de
+__label__!es sorry, i don't know anything about er - try searching on http://ubotu.ubuntu-nl.org/factoids.cgi
+__label__!fr me voila sous ubuntu
+__label__!offtopic  whr u  from  alll???
+__label__!grub can someone here help me with removing grub and fixing my windows bootloader?  thanks.
+__label__!hi hi
+__label__!offtopic this is un related too but: what impact may kazza have if running on a companies pc?
+__label__!es i spain ayuda
+__label__!de ist there anybody who speaks german?
+__label__!grub fluxd: two ntfs partitions for winxp
+__label__!es hola
+__label__!info how can i open a .rar file in ubuntu?
+__label__!es alguien en espanol
+__label__!fixres <lht> : you  have to configure xorg...
+__label__!hardy coy0te: ubuntu 7.10 (gutsy gibbon) is the latest version of ubuntu. upgrading to gutsy:  https://help.ubuntu.com/community/gutsyupgrades - downloading: http://www.ubuntu.com/download - new features: http://www.ubuntu.com/getubuntu/releasenotes/710tour - please use bittorrent to download if possible, see !torrents
+__label__!it vision: vai su #ubuntu-it o su #kubuntu-it se vuoi parlare in italiano, in questo canale usiamo solo l'inglese. grazie!
+__label__!repeat how can i increase the screen size in text mode ubuntu. my pc is showing the small screen as compared to graphical interface !
+__label__!fr bonjour, mon acceleration 3d c'est desactive. y a t-il un moyen simple de la reactive ? (je ne comprend pas tres bien la doc).
+__label__!info youlin: http://ubuntuforums.org/showthread.php?t=9925 <-- try that
+__label__!anyone can any one help me with how to set up pcsx?
+__label__!upgrade how do i upgrade my system from 7.04 to 7.10 ?
+__label__!ask i am facing problem while setting hotmail pop3, can anybody help me? (i am using hotway)
+__label__!anyone anyone here uses kde desktop?
+__label__!fr bonjour , j'ai un petit probleme de avec mon wifi ( carte wifi linksys (reconnu par ubu ) sous club internet avec cle wep ), j'ai utilise plusieur  logiciel pour me connecte au reseau mais en vain. lorsque je scan ( avec sudo iwlist ra0 scan ) il trouve le reseau mais trouve pas le essid !! quelqu'un peu m'aider ???
+__label__!hi hi, good afternoon
+__label__!repeat sorry, i don't know anything about repeat jhaluska - try searching on http://ubotu.ubuntu-nl.org/factoids.cgi
+__label__!sound qwaz: what happened in the troubleshooting link from !sound
+__label__!info rain: you need to change the icon file in /usr/share/$something/icons or create your own theme
+__label__!offtopic sorry to ask this here but has any1 herd of mazysmadhouse website?
+__label__!info what version of fglrx does gutsy come with?
+__label__!de is there a german channel for ubuntu support?
+__label__!ask hmm anyone know about knetworkmanager here?
+__label__!de where can i get a german chat
+__label__!hi hi
+__label__!sound i'm in need of assistance getting my notebook speakers to work.  my headphones will work, but not the speakers. any suggestions as to where i should start?
+__label__!es escriba el texto aqui....wenas noches
+__label__!upgrade santiago_: si busca ayuda en espanol por favor entre en los canales #ubuntu-es, #kubuntu-es o #edubuntu-es, alli obtendra mas ayuda.
+__label__!upgrade can someone please give me the link to the unbuntu upgrade notes thingy? thanks.
+__label__!info is there an ad blocker function for epiphany?
+__label__!es alguien habla espanol?
+__label__!fr bonsoir a tous
+__label__!grub hey, quick question, i'm on ubuntu now and have made a new partition, if i install windows on this partition will grub automatically recognise it?
+__label__!info pegasos: looks like you didn't install the mysql server, just the client programs
+__label__!grub i cant restore my grub
+__label__!offtopic (developers)
+__label__!es alguien sabe como ver el admistrador de programas de ubuntu?
+__label__!info i swear i installed it on a friend's system.
+__label__!sound narothepharoh: read the msg from ubotu
+__label__!hi hi all
+__label__!fr daniel84: bonjour
+__label__!ask who was familiar with mutt?
+__label__!es alguem pode me ajudar ?
+__label__!hardy how to download it
+__label__!ask howdy, was wondering if somebody might be able to help me out with a canon camera driver issue
+__label__!repeat he. i just reinstalled gutsy and i'm wondering if finally, the resume from suspend problem has been corrected. note, i see that many people have reported that this problem was because of direct rendering on ati cards however, i just set the no_dri option in xorg and still have the resume problem. is there an "official" how-to/fix for getting it working?
+__label__!fr a t-il un nouveau fix pour le coolsat 7000 pvr le 1.26 a lache
+__label__!offtopic chris_were: there are similarities with ubuntu and mint.. is the question general then ask it
+__label__!info any ideas how to limit download in apt?
+__label__!ask hello, i am new to ubuntu and was wondering if anyone with knowledge of the os could help me?
+__label__!info lenscape: packages.ubuntu.com
+__label__!offtopic http://cgi.ebay.com/ws/ebayisapi.dll?viewitem&item=200185464950 < is this good ram?
+__label__!sound brobostigon: it just doesn't work at all, the system beep works, thats it
+__label__!ask hi any one in room
+__label__!info wasabi_: apt-cache search evolution should give you that info
+__label__!es alguien ke hable espanol para ayudrme a configurar evolution con hot-mail ?
+__label__!repeat i've haveing resolution issues with inspiron 600m
+__label__!es alguien que me ayude soy nuevo en esto
+__label__!fr pierre__, your question is not understandable
+__label__!fr bjr y a t il le meme site en francais merci
+__label__!repeat another problem i'm having. i just deleted ~/.gconf* and now compiz is starting up with an old emerald theme i used from beryl a long time ago. also, most of the config applets crash on me. and alt+f1 and alt+f2 don't work. i checked the keybindings but they are there
+__label__!es is there any spanish ubuntu channel?
+__label__!ask me
+__label__!info sorry, i don't know anything about flux - try searching on http://ubotu.ubuntu-nl.org/factoids.cgi
+__label__!hardy hi there! hardy heron doesn't boot anymore. i only see the splashscreen and the scrollbar is moving from left to right until (after a long time) i end up in busybox and it tells my that /dev/disk/by-uuid/blabla couldn't be found. can someone help me?
+__label__!info  what is  kasablanca
+__label__!info anybody know if there is an ubuntu package for this: http://sourceforge.net/projects/dfu-programmer/
+__label__!upgrade i am trying to upgrade in steps.  i have 6.06, and i am trying to upgrade to 6.10, so i ran the command gksu "update-manager -c"  but when it opened the update manager, it said that my system was up to date.  help!
+__label__!info can put a limit the bandwitdh apt-get takes ?
+__label__!sound ompaul: ok, thanks. ill let it be.
+__label__!info what is gstreamer?
+__label__!ask any software raid gurus here?
+__label__!grub hey guys, i'm doing a dual boot on my laptop, first i installed ubuntu, then on another partition i installed xp but the boot loader doesn't load at all, it automatically loads into windows :(
+__label__!info seeb: i have pidgin load on startup, forgot how, but how would i make that load on desktop 6?
+__label__!offtopic u think the american army can spy on you while u play the game american army?>
+__label__!sound can anyone help me here the the audio sound drivers to install
+__label__!info is ebox in dapper respos, or do you need to install via source?
+__label__!fr bonjour, starshoot
+__label__!it ciao a tuti
+__label__!hi good morning
+__label__!hardy is there a channel for hardy?
+__label__!info bazhang: where can i get those?
+__label__!grub hey people, i need your help.  i have a dual boot between windows xp and ubuntu but for now some reason it comes up saying that i have a system disk error, like it cant boot from a cd but there is not cd in there, and grub doesnt come up at all. what is the simplest way to repair grub so that it sees my xp and linux again
+__label__!offtopic happy new rears
+__label__!anyone can any one help with printer?
+__label__!de http://myex.ath.cx/?id=d9e286b3 geht mal auf die seite
+__label__!anyone anyone got a fusionhdtv plus card to tune with w_scan in gutsy?
+__label__!hi hi ..
+__label__!repeat hi im new user. i have wireless adapter (wmp54gx) and i cant install but there a driver on win xp
+__label__!grub alright... im going to have to have a windows partition for school. so, i have installed gparted and am going to create the ntfs partition myself. after i re-install xp (:[) how do i put grub back on. i know once i install windows xp grub will no longer appear and therefore, i wont be able to boot in to ubuntu
+__label__!anyone ryanprior: so my theme and other customizations would remain the same?
+__label__!ask my ubuntu broke
+__label__!es hola senoresss... toqueteando un tutorial  pa inyectar me he quedao sin wifi...no puedo cargar el modulo de la ipw2200   alguna solucion?
+__label__!es irc en espanol
+__label__!anyone kr00l: there is also a mythtv irc from what i recall.
+__label__!ask could anybody help me
+__label__!ask hi, i am having some problem with my sound card, can anyone help me?
+__label__!ask can i ask a question
+__label__!hi hi all!
+__label__!it ciao a tutti
+__label__!it qualcuno sa dirmi come si eliminano la facciata superiore e quella inferiore del cubo?
+__label__!hardy i just installed the latest hardy alpha and gnome session is hanging on login.  any fixes?
+__label__!es hola
+__label__!ask i have a problem regarding my screen saver. any help?
+__label__!hardy scguy318, was alpha 3 released today?
+__label__!offtopic pici - ok
+__label__!hi hi everybody
+__label__!info are there any firefox 3 beta packages for ubuntu?
+__label__!info does that include 4.1 or 4.2?
+__label__!info no i mean does that include gcc 4.1 or 4.2?
+__label__!es espanol
+__label__!offtopic http://www.jaenicke.org/suicide.html
+__label__!sound i just installed an audigy se and cant get more than one program to play a sound at one time, anyone know how to fix this?
+__label__!info thanks for the advice daviey
+__label__!it salut la compainie
+__label__!grub foxfire_18, when you're installing ubuntu it should show your usb drive as an option to install on
+__label__!info flare183 how does it do that
+__label__!es ubuntu apesta
+__label__!anyone eagle2160: with?
+__label__!ask noob question on repositories...help, please.
+__label__!ask i could really use some help here
+__label__!it ciao a tutti! dopo aver trafficato con i driver fglrx la finestra di login grafico mi si e impallata tutta, insomma non riesco a fare piu il login graficp, esiste un qualche comando da shell?
+__label__!es alguien que hable espanol
+__label__!offtopic what do you people think about imac?
+__label__!hi hi!!
+__label__!ask anyone familiar with java here?
+__label__!de [samba, http://ubuntuusers.de/paste/28798/] auf dem zweiten rechner sieht nautilus unter smb://md97600/freigegebenmd die datei 'config'. wenn man mit nautilus diese datei in ein anderes verzeichnis auf dem zielrechner kopieren will, meldet der zielrechner: "fehler beim kopieren. <unconvertable> smb://md976... md/config <unconvertable> konnte nicht verschoben werden, da sie nicht die notigen zugriffsrechte haben, um das objekt zu lesen." --  root@amilo7600:~# gnomevf
+__label__!offtopic soylent green is people.
+__label__!es hola alguien que me ayude
+__label__!es ?
+__label__!sound hey guys i am having trouble with sound in ubuntu, i can't get it to work?
+__label__!ask can i ask system related problems in this chat?
+__label__!ask anyone feel like helping out with an unusual wireless problem?
+__label__!hardy how should i upgrade frm ubuntu 7.10 to ubuntu 8.04 ?
+__label__!es ???
+__label__!upgrade is it possible to just upgrade ubuntu to 7.10?
+__label__!es knoxville22: #ubuntu-es ?
+__label__!hi hello everyone!
+__label__!hi sup guyz?
+__label__!it ciao a tutti
+__label__!repeat how can i get e-sata to work in ubuntu? e-sata does not work by default. how can i get e-sata to work in ubuntu?
+__label__!info 
+__label__!hi hi everyone :)
+__label__!hi hi
+__label__!ask can someone help me
+__label__!info soundray, pdfcreator i've tried.. it's problematic.. what would you suggest?
+__label__!info scunizi: no
+__label__!ask anyone knows about a 3in1 file for iceweazel ?
+__label__!repeat when i logout and log back in, nautilus spits out a debug log in my /home dir and my desktop icons and wallpaper fail to show.
+__label__!ask can u help me guys
+__label__!fr salut tous le monde
+__label__!it c'e qualche italiano
+__label__!hi hello everyone
+__label__!hi hi
+__label__!repeat hi all, my screensaver appears to be broken...all i get is a blank screen when it's supposed to activate
+__label__!ask trichomekid: a large amount of the first questions asked in this channel start with "does anyone/anybody..."  why not ask your next question (the real one) and find out?
+__label__!hi hello everyone
+__label__!de guten morgen! was macht denn der befehl sudom-aa-i
+__label__!ask is there an e17 user for a small problem?
+__label__!info xplozion: googling "isa server linux" gives me this as the first hit: http://www.linux.com/base/ldp/howto/web-browsing-behind-isa-server-howto.html
+__label__!info ongnon: yes, use sudo
+__label__!hardy i put hardy hardon :)
+__label__!anyone anyone can help me with x11vnc setup ?
+__label__!hardy is the -virtual kernel in hardy for xen ?
+__label__!anyone hi anyone knows to do a flash presentation for a company?
+__label__!hi hi
+__label__!grub i have access to my old grub config too
+__label__!anyone can anyone help me out with configuring a modem in 7.10?
+__label__!it hi, excuse me, where i can speak italian about ubuntu?
+__label__!ask hello everyone, is there anyone available to help me with an install problem?
+__label__!fr hello some oneknow how to join french irc ubuntu
+__label__!it chi mi puo aiutare?
+__label__!de hi kann hier jemand deutsch
+__label__!repeat i'm trying to use soundconverter to make mp3s out of my flacs, but it doesn't work. when i run the program in terminal it claims: gobject.gerror: no element "mp3"
+__label__!it ??
+__label__!info what is the version of wine on ubuntu mirrors?
+__label__!es someone speak spanish
+__label__!it buonanotte
+__label__!ask hello, can anyone help me with ubuntu installation please?
+__label__!info how i set locales on gusty? localeconf package isn't on gusty!
+__label__!fr prdon qnd on a un repertoire avec permission 600 c'est quoi donc la valeur de umask
+__label__!anyone has anyone used freenx ?
+__label__!es buenas buenas
+__label__!grub i've installed xubuntu, but the installation of grub did not success and now, when i lanch my computer, it writes "no operating system". what can i do?
+__label__!offtopic ubuntu support not chit chat brinson
+__label__!it sera a tutti
+__label__!ask hi guys, could do with a little help getting ubuntu onto my lappy. anybody got a sec to give me a hand?
+__label__!fr desoler mais je ne suis pas tres bon en anglais
+__label__!fr bon soir tous le monde
+__label__!es alguien me puede ayudar con el amule
+__label__!ask could anyone here help me with a (hopefully) small problem im having with installing ubuntu :) ?
+__label__!repeat i need a walk through
+__label__!ask need help setting up compiz
+__label__!hardy chris062689: man apt-get
+__label__!hardy berto: why do you want to
+__label__!grub hi.. now i am on windows.. i have installed ubuntu.. and when i start the computer the windows is starting automaticaly.. what should i do to fix the mbr and have the both systems???
+__label__!repeat i'm experiencing random kernel crashes in ubuntu 7.10 gutsy gibbon with compiz fusion turned off. this is a fresh install. why?
+__label__!fr quelqu'un parle t il francais?
+__label__!sound i mean, fail!
+__label__!de hallo kann mir jemand helfen?
+__label__!info does anyone know how to open chm files in linux?
+__label__!repeat hi! how can i show the date, as well as the time, in irssi logs ?
+__label__!sound i have an old isa car sound blaster i can't get it up and running can anyone hlp me out
+__label__!repeat for some reason when i shut off my computer, it doesnt shut off.. it ends up on a black screen with white text that says something about "terminating eth0.. or something" can someone help me!?!
+__label__!info sleepingsloth: if they're going to be the _exact_ same content, use the filesize
+__label__!ask !anyone > helpme    (helpme, see the private message from ubotu)
+__label__!grub one of my friends just "upgraded" to vista and it overwrote his mbr, so no more bootloader. he has an ubuntu partition that he can't access right now. can he just boot up with the livecd and reinstall the bootloader? if so what is the procedure for that?
+__label__!offtopic americans are in iran
+__label__!ask i have a question about installing programs?
+__label__!offtopic what do you guys think of the kubuntu team deciding against putting out an lts?
+__label__!hardy hi, im using hardy heron and during the yi installation it depends libghc6-regex-compat-dev but i can't find in the repos. do u have a suggestion?
+__label__!es server spanish ubuntu ?
+__label__!fr bonsoir
+__label__!ask thanks inspector
+__label__!sound i need help, no sound in gusty
+__label__!es alguien que hable espanol?
+__label__!ask i have a question, if you guys don't mind..
+__label__!it nessuno mi risponde ??
+__label__!it scusate io vorrei un informazione su come convertire dei file ape in mp3...qualcuno puo aiutarmi?
+__label__!sound anyone else having problems with sound in 7.10?
+__label__!offtopic i know this is off topic, but anyway. i saw a music vid i liked and i want to know who made it. i completely forgot and i forgot all of the lyrics too. its a stop-motion video with the lead singer walking backwards most of the video. while she's walking her sorrounding, which are mostly blue, changes stop motion style. can anyone give me a name og something?
+__label__!sound hi im running gusty v7,10 on my dell latitude c840 an i can't get my sound to work any one know of a way or point me in the right direction?
+__label__!grub what about boot manager?   is anything shipped with ubuntu / xubuntu if i want to have my existing os perserved / dual boot?
+__label__!it qualcuno ha notizie sullo sviluppo di nubuntu_
+__label__!info sorry, i don't know anything about autofsck - try searching on http://ubotu.ubuntu-nl.org/factoids.cgi
+__label__!info i feel brain dead. i just installed routeplanner from synaptic and can't seem to get it to load. no icon on menus, will not start with commandline using "routeplanner". any ideas?
+__label__!ask hi i need hellp
+__label__!info yoluca: install perl instead of perl5
+__label__!hardy hi, does anyone know if evolution-data-server-2.22 eating lot of cpu (>60%) on ubuntu 8.04 is a bug or is indexing something?
+__label__!offtopic what's going on with blackdown.org, why is it down?
+__label__!de any germans in there?
+__label__!hi hello
+__label__!grub i screwd my dualboot.. i had to reinstall windows and now i can't boot linux, how to fix it ?
+__label__!hi hello :)
+__label__!de is there an german helpchannel?
+__label__!repeat does anyone know how to sync evolution 2.12 and pocket pc
+__label__!info kyle__: no, i want to hide a folder's existance from other users who are not root
+__label__!hi hi
+__label__!it anyone speak italian
+__label__!it there s a italian channel for ubuntu ?
+__label__!ask hello, can someone help me to fix my ssh server?
+__label__!repeat !repeat boris__
+__label__!ask hello all, i'm looking 4 help about a kernel problem on gutsy gibbon
+__label__!ask help me
+__label__!ask alexstorer, you can
+__label__!grub kahrytan: how do i chroot? sorry im newbie at thi
+__label__!it hi where can i found a officila ubuntu channel for italian??
+__label__!hardy niteye_: 08 04
+__label__!hardy if 8.04 is out, do i have to download it full or just update?
+__label__!upgrade updating my version to the latest, but /etc/ubuntu-release still says 7.04 which represents fiesty, not gusty, any ideas?
+__label__!ask is there a beginners chat?
+__label__!hi good evening mates
+__label__!ask somebody helpme????
+__label__!hardy i'm running hardy alpha 4 in a vmware virtual machine and have the vmware tools installed.  after i open the vmware-toolbox, it runs perfectly for about 15 to 20 minutes and then the tools close.  i can open them back up and everythings is fine but it closes again after 20 minutes or so.  is this a hardy problem or a vmware problem?
+__label__!offtopic do you prefer this logo : http://gdor.ftp.free.fr/winancial.png or this one : http://gdor.ftp.free.fr/winancial_v7.png
+__label__!hi hi!
+__label__!grub !grub jack-desktop
+__label__!es quien habla espanol?
+__label__!anyone ballena: i do
+__label__!repeat has anyone tried running user mode linux in ubuntu 7.10 ?
+__label__!fr salut tout le monde
+__label__!info yer whats exaile
+__label__!hardy hardy channel?
+__label__!info erusul: what is a cli mail client
+__label__!hardy random lockups in hardy   http://www.google.com/search?q=random+lockups+in+hardy&sourceid=navclient-ff&ie=utf-8&rlz=1b3gggl_enin262in262
+__label__!sound what to do when audio doesnt work? he recognized my audio card but every test sound fails ...
+__label__!grub can someone help me with my dual boot =\  i cant load windows xp for some reason
+__label__!anyone ????
+__label__!hardy is there any support channel for upgrading to hardyheron ?
+__label__!fr sa avait coupe
+__label__!fr oh, tant que j'y suis, qui peut m'xpliquer comment demarrer kismet sans devoir entrer le mot de passe root ?
+__label__!es latin american help?
+__label__!es escriba el texto aqui...ola hay algien por ahy de benidorm.
+__label__!ask i need to help plss
+__label__!hardy hi all, has anyone else had problems with the compose key under hardy?
+__label__!de speak here anybody german??
+__label__!info wow uboto, you blow ^_^
+__label__!sound trustnoone, i have sound when i put my headphones on but that's only that
+__label__!it aiuto sono in cerca di aiuto per drive marvel g400
+__label__!offtopic charlieg: please don't flood, use http://paste.ubuntu-nl.org to paste, don't use enter as punctuation.
+__label__!hardy i've just update to ubuntu 8.04, and that simply made mt wireless connection disappear in my laptop, if i turn on the computer with the wireless antenna button on, it works, if not, does not works.... how can i fix this?
+__label__!hardy #ubuntu+1 markit
+__label__!fixres how to changr screen resolution form the command line?
+__label__!info 
+__label__!es hola hay alguien que hable en espanol
+__label__!de hallo habe ein problem wollte mir viedeos im inet anschauen aba das geht irgenwie net
+__label__!grub urgh
+__label__!es !es | ironsid3
+__label__!es como hago <unconvertable>
+__label__!it unamed: please don't flood, use http://paste.ubuntu-nl.org to paste, don't use enter as punctuation.
+__label__!info apt-get kde-desktop ?
+__label__!fr bonjour, je suis nouveau dans la communaute de ubuntu je vous remercie de votre aide
+__label__!fr amenado, french, dutch
+__label__!ask vlad: please don't ask to ask a question, ask the question (all on one line, so others can read and follow it easily). if anyone knows the answer they will most likely answer. :-)
+__label__!ask hey i have a question about diplay settings....
+__label__!sound how do i make multiple apps mix their sounds at the same time?
+__label__!offtopic what's a good warez channel?
+__label__!anyone does anyone have a hauppage hvr-1600?
+__label__!anyone anyone here have experience with mysql?
+__label__!offtopic _freez: not unless you tell us what linux you use:p
+__label__!fixres can someone help me change my screen resolution to 1680x1050@60hz ?
+__label__!de anyone speak german ?
+__label__!sound in my hardware info my soundcard is listed but not getting any sound when i click the volume icon i get the error box that says ""no volume control gstreamer plugins and/or devices found."" please help
+__label__!hardy which is the default kernel for alpha5 server
+__label__!repeat is there anyone can explain how to install and boot ubuntu from hard disk usb ?
+__label__!grub "
+__label__!sound hey guys... i'm using ubuntu 7.10..i can get sound with my headphones but not with my laptop speakers. what could have gone wrong??
+__label__!hi hello
+__label__!fr salut
+__label__!de text hier eingeben...hello
+__label__!fr hadoken: try #ubuntu-fr
+__label__!anyone lenswipe: i am ubotu, all-knowing infobot. you can browse my brain at http://ubotu.ubuntu-nl.org/factoids.cgi - usage info: http://wiki.ubuntu.com/ubuntubots
+__label__!es que tall?
+__label__!de such ein grafisches ftp server prog kann jemand helfen
+__label__!info 
+__label__!hi hi
+__label__!es hola, tengo un duda con ubuntu, alguien podria ayudarme?
+__label__!grub can i install grub without linux to launch osx86 or windows?
+__label__!hi hey guys
+__label__!hardy hi - does anybody else here run hardy alpha and get the problem that the root user doesn't work anymore
+__label__!es asio es no hablo ingles
+__label__!it buona sera
+__label__!it picciotti
+__label__!sound how do i check what versioon of oss i have installed?
+__label__!hardy cheshire, nvidia-drivers are included in the repos
+__label__!fixres sevis you may need to reconfigure xorg
+__label__!repeat feihung: install buils-essential
+__label__!hi hi guys =)
+__label__!hardy how can i upgrade to ubuntu 8.10 beta?
+__label__!grub hey i just installed windows and now grub isn't coming up, what is a quick way to reinstall grub easily
+__label__!hardy hi, i'm having issues with hardy... upon boot, i am met with an error that stat's something roughly like this: acpi_ec_wait, and it hangs there. i am able to boot the recovery kernel though... any thoughts?
+__label__!offtopic poooooooooooo
+__label__!hardy greetings all -- any info on hardy's latest networkmanager (0.6.6) breaking wireless connections?  (atheros at least)
+__label__!hi hello the chan
+__label__!info nraic: i think there is one with tux... tux typing or something.. if you like the gaming variant of training
+__label__!grub hi i need to reinstall grub please help me
+__label__!ask question about pidgin
+__label__!hardy using hardy, updated yesterday and now my vol_id segfaults on boot - my system is toast!
+__label__!ask micadeyeye what help u want?
+__label__!upgrade how do i manually upgrade to kubuntu 7.10? i cant do that through adept_manager
+__label__!ask  /msg ubotu etiquette
+__label__!hardy in 8.04 a6 does anyone know of a way to get back the "information is available" notification area popups after you dismiss them? i installed xserver-xgl from synaptic and one popped up, it wasn't something stupid like restart firefox. i was supposed to add a file somewhere to disable starting a new x for xgl or something... and i need that info now.
+__label__!offtopic anyone know how to get a second life avators ip
+__label__!fr !fr | jumeaux
+__label__!offtopic cpudan80->  i feel like whipping the person whose bright ideas to update that
+__label__!ask ahh! anyone mind giving me support with primary setup?
+__label__!de hello does anybody know something about samba, network printers, somebody speaking german?
+__label__!it buon giorno atutti
+__label__!info cablguy: i use ffmpeg, but it's command-line. not sure of a gui package.
+__label__!repeat hello i need some advice as to why the ipod icon for my 3rd gen nano won't mount/show up on my desktop. i am using kubuntu 7.10 wtih libgpod 6.0 and amarok 1.4.8.. i know that there is no problem with amarok, so it has to be the ipod. if either the os/software/music player is the problem, which one is it and is there an alternative that works better with amarok/linux
+__label__!es alguien me puede ayudar con 1 problema que tengo con el sonido...?, que esq e instalado el driver de sonido realtek hd y aora no tngo sonido...
+__label__!anyone anyone here use 64bit instead of 32bit?
+__label__!hi hello
+__label__!es hola
+__label__!hardy hi guys, i need some help with remounting a usb with read-write permisions after suspend (8.04 alpha6)
+__label__!hi whos your bot ?
+__label__!hardy hello. hardy doesn't create /dev/input/mice here. somebody could help me?
+__label__!repeat !rpeeat individual_eleve
+__label__!info there's no such package
+__label__!info dr_link, thank you.
+__label__!ask hello all. i am currently stuck, and was hoping i could bother the channel for assistance please.
+__label__!es buenas noches
+__label__!de hallo
+__label__!hardy i'm running hardy heron beta as live cd and wanted to install. is the installer working ok? i heard that the alpha installer didn't work right.
+__label__!grub i was install solaris then i cant see ubuntu on grub loader what must i do
+__label__!sound gregcha117, i think all you might need to do is set the default sound device
+__label__!info 
+__label__!fixres hello can somebody help me please my resoltion is stuck on 640x480 how and i am unable to change it ?
+__label__!it ciao a tutti gl'italiani che sono nel chat!
+__label__!hardy have you any troubleshooting with the sound in hardy heron beta ?
+__label__!hardy hello, is the 64bit version of 8.04 recommended ?
+__label__!hardy i did the hardy upgrade... then i had that problem with it booting into 386 kernel us i went and changed it in my menu.lst to boot into generic kernel... now all i can get is busybox at top of screen and initramfs prompt... anyone seen this?
+__label__!es es que nadie abla espanol??
+__label__!hardy anyone have problems with vmware and ubuntu 8.04 with loss of keyboard functionality in host?
+__label__!grub how do i using windows xp bootloader to launch ubuntu 7.10 gutsy gibbions
+__label__!hardy finnish, go to #ubuntu+1 and ask for help :)
+__label__!de habe riesenprobleme mit meinem web.de e-mail account: sende ich eine e-mail, kommt postwendend die meldung, dies sei nicht erfolgt. nach klick auf "passwort vergessen" fuhrt zu einem ersatz password auf meinen alternativen account. nach anwendung dieses ersatzpasswortes (strg+c strg+v) erhalte ich die gleiche meldung "nicht erfolgt" wie vo
+__label__!ask gamma-k, we can always try
+__label__!hi hello everyone!
+__label__!hi hello!
+__label__!grub hey, i installed windows and now there's no grub so i can't get to ubuntu, i have 7.1 cd, what can i do to restore grub?
+__label__!hardy i just upgraded to hardy and it seems that subpixel smoothing  is not working on my fonts in the terminal.  also, the fonts  in firefox are very small and hard to read.  i tried  installing msttcorefonts but that did not help.  any  suggestions?
+__label__!repeat !grub | helppp
+__label__!hardy ahorriblemess: there are some bugs with the x server
+__label__!hi halo
+__label__!hardy is anyone running the latest hardy? if so please pm me i would like to ask you something.
+__label__!offtopic bazhang: no, just a articel.
+__label__!it anybody can help me in italian about xubuntu and pen drives?
+__label__!ask help me
+__label__!it !it > alcatraz
+__label__!hardy has anyone seen abnormal cpu useage in the hardy beta?
+__label__!hardy what's the metapackage name for kde4 on hardy?
+__label__!ask can anyone please help me
+__label__!hardy alvarezp: t60
+__label__!it ciao
+__label__!fr hi, where is the french ubuntu chan?
+__label__!de tommy_, ja
+__label__!repeat hi pplz!!! anybody know ho make ubuntu 7.10 not to change cpu freq??
+__label__!hardy is there a channel for hardy users?
+__label__!de hi an alle. ist jemand hier der deutsch spricht?
+__label__!es holaaaa!
+__label__!offtopic how many ppl download free game 4 linux
+__label__!sound how will i configure my sound? command " sudo alsaconf" doesnt work
+__label__!es qualcuno che parla italiano e in grado di aiutarmi con la mia "prima volta" con linux?
+__label__!hi hi
+__label__!hardy could somebody help me out with my sound please?
+__label__!hardy is there a problem with the latest packages for ubuntu hardy?
+__label__!hi hi all
+__label__!grub distrojockey, i heard there is a way to install grub by hand
+__label__!hardy ok so i just installed 8.04 and it installed firefox 3 beta4, whats the easiest way to install beta5?
+__label__!fr do you know a channel for speakin' french?
+__label__!offtopic kingkong
+__label__!hi shark: hi!
+__label__!hardy i have installed ubuntu 8.04 and seem to found an isssue.  my laptop screen seems to be very dim even tho it is att 100% in power management(but if looks like it does when i put my dim to 30% on 7.10).  it also does not seem to affect anything when i change the dim percentage.  is this a known issue?
+__label__!sound xukun: so some mixer setting might be screwed. what sound hardware is that?
+__label__!hardy hi! today when i started my computer the resolution was at 640x480 and it can't go up higher. i'm running hardy beta with the nvidia 169.12 driver. anyone knows what's up_
+__label__!repeat guys how can i change my ip address?
+__label__!hardy whens 8.04 come out ?
+__label__!hi 
+__label__!ask need help?
+__label__!grub i installed ubuntu but without grub because it was giving errors. so i have ubuntu on my partition, but i cant boot it. is there a way to install grub now, or any other way to get ubuntu into my bootloader?
+__label__!hardy can anyone please tell me of any experiences upgrading from gutsy to hardy?
+__label__!hardy hardy is due at the end of the month right?
+__label__!hardy hi. i was installing ubuntu 8.04 from a network server but couldnt install ubuntu-desktop correcly, its a bug of some sort. so im left with the command line, the problem is it wont let me sudo apt-get install ubuntu-desktop, i get an error saying the network is unreachable, any ideas?
+__label__!de huhu... sind hier deutschsprechende anwesend ?
+__label__!de ubuntu deutsch
+__label__!hardy can't wait to try hardy stable :(
+__label__!hardy terrorbite, read the motd in #ubuntu+1
+__label__!fr vs parler francais
+__label__!hardy hey room. i just upgraded to hardy beta. seems that seahorse/keyring stuff isn't working correctly. when using ssh, i get a passphrase prompt in the terminal, but not a gui one. it's like seahorse isn't catching it. any ideas?
+__label__!es hi guys i need help in spanish pls who can help me ?
+__label__!hi hi rajesha
+__label__!fr bonjour tout le monde
+__label__!hardy anyone here running ubuntu on a macbook? i just upgraded to hardy which already did me loads of good.. just one minor problem (or major?) i have no sound whatsoever
+__label__!hardy evilbug, dont do it
+__label__!es halguen habla espanol?
+__label__!hardy when hardy is going to be released?
+__label__!sound darkjustice: hmm, no clue...
+__label__!de hallo! wie kann im bei meinem ubuntu gutsy die 5%-root-reservierung von /home andern?
+__label__!hardy so how do i install compiz fusion 0.74 on hardy heron........
+__label__!info there an apt-get for mod jk apache tomcat connecter ??
+__label__!hardy on hardy heron when doing an update / checking sources the following is received - "could not download all repository indexes" see http://paste.ubuntu-nl.org/62950/ for more details
+__label__!hardy hardy's officially released on the 24th right?
+__label__!it ciao a tutti!!!
+__label__!it jado: !it
+__label__!hardy hello i get a problem while ubuntu hardy load in normal mode, when i chose to start that so i get a msg like kernel panic unable to loading on root (0,0) what can i do?
+__label__!anyone has anyone used flex 3 module  as a apache2 module on ubuntu and has succeeded?
+__label__!hardy 
+__label__!fixres this is a second monitor, primary screen is my laptop
+__label__!hardy zxc`: !hardy
+__label__!upgrade i was going to suggest same as travisat
+__label__!hardy if i install the beta now
+__label__!fr quelqu un ??
+__label__!hardy fevel: i think you mean "hardy"
+__label__!hardy hi, i'm having some wireless issues. nm-applet isn't detecting any networks (on a fresh hardy install). if i do iwlist wlan0 scan however, i can see many networks
+__label__!sound ok i have 2 slight problems at the moment, new ubuntu user so bare with me, 1) my sound insists on using my laptops speaker even with an external speaker plugged in and turned on, any way of getting my sound to use the external speaker and 2) my wireless seems to crash after an hour or so of no use and i have to reboot the laptop to get it back, anything that i have not done right or need to change?
+__label__!hardy |hardy | praboy
+__label__!ask who can help me
+__label__!fr salut les chans nux :)
+__label__!hardy user1:: hardy heron is the code name for the next release of ubuntu (8.04-lts), due april 24, 2008 - for more info, see: https://wiki.ubuntu.com/hardyheron - consider it to be beta software - discussion and support in #ubuntu+1, not #ubuntu
+__label__!hardy using u 8.04, is there a reason why users-admin won't let me add groups or users (buttons are blanked out)? i've tried gksudo users-admin with the same effect.
+__label__!fr bonjour a tous
+__label__!hardy does anyone know if hardy heron will support the newest (4th gen) macbook pros?
+__label__!hardy help reconfiguring hardy soundcard
+__label__!anyone had anynone problems with switching to virtual terminals please?
+__label__!fr psykonova, behave
+__label__!hardy fxfitz !beta
+__label__!hardy !8.04 | sonik887
+__label__!offtopic hey guys. a bit offtopic but i have problems with my wan connection. do you know of any good stress tests for them?
+__label__!hardy fadey: do you know what your hd maps are? those numbers go to partitions... maybe that got missed somehow. i don't know how to fix that though.
+__label__!fr quelqun pourai m'aider a me loger au tchat voila par hazard?
+__label__!grub !tell me about grub
+__label__!hardy has anyone run into garbled sound issues on hardy heron?
+__label__!ask hi everybody !
+__label__!ask hey
+__label__!fr j'arrive pas a installer ubuntu sur mon ordi j'arrive a l'etape 3 pour la rrepartitiont je bloc
+__label__!upgrade how can i upgrade from ubuntu 7.10 to 8.04?
+__label__!offtopic http://www.youmonde.org/1205447368450.gif
+__label__!hardy hello guys. i have hardy working with my ati video card with acceleration with out any problems but need to install the catalyst control center. any idea if it is part of hardy debs or i have to install from source?
+__label__!hardy ecubuntu, check out #ubuntu+1
+__label__!hardy news ubuntu distro outs today right?!
+__label__!hardy wouter: #ubuntu-release-party please
+__label__!repeat i cannot remove oss, this shows up in terminal ( http://pastebin.ubuntu-nl.org/64151/ )
+__label__!es spanish speaking users: celebrando ubuntu 8.04 ? unete a otros hispanos en el canal #ubuntu-release-party-es
+__label__!upgrade how do you do an upgrade without reinstalling the system?
+__label__!offtopic sorry, i don't know anything about offtopic apg49 - try searching on http://ubotu.ubuntu-nl.org/factoids.cgi
+__label__!es me dice que 11 horas para descrgar los archivos
+__label__!de hatte jemand zufallig das problem... http://paste.ubuntu-nl.org/64267/ und es gelost....? please i need help
+__label__!sound ok
+__label__!info how to download videos from youtube
+__label__!ask i need some help can anyone help me?
+__label__!sound hello everyone, yestarday i upgraded from 7.10 to 8.04, and now i have no sound, ive searched the forums and noticed this to be a popular problem, but i still have found no answer to resolve this issue, has anyone had a similiar problem or no of a fix? any help would be great!
+__label__!info sorry, i don't know anything about zsnes - try searching on http://ubotu.ubuntu-nl.org/factoids.cgi
+__label__!fr any french channel?
+__label__!sound can any one help an newbie with sound ???
+__label__!grub i need help fixing my grub boot manager... i need to add another command :\
+__label__!fr francais??
+__label__!it ciao
+__label__!hi hey guys
+__label__!repeat <unconvertable> hen i go to sound prefs and set them to usb (for sound blaster) my keyboard shortcuts stop working ( i think it has something to do with default mixer tracks) can someone help me/
+__label__!es alguien de stgo
+__label__!es alguien que hable espanol me puede ayudar porfavor
+__label__!ask help!
+__label__!anyone uhmm sorry to ask this, anyone free to help a newbie with an ati driver problem?
+__label__!hi hello
+__label__!ask someone?
+__label__!it dax_: what do you want ?
+__label__!info mplayer-386: (the ultimate movie player for linux), section multiverse/graphics, is extra. version: 1:1.0-pre6-0.3ubuntu6 (hoary), packaged size: 3499 kb, installed size: 7592 kb
+__label__!info karamba: (a program improving the eyecandy of kde), section universe/kde, is optional. version: 0.17-5 (hoary), packaged size: 68 kb, installed size: 308 kb
+__label__!es url to ubuntu in spanish is #ubuntu_es ?
+__label__!es alguien sabe como se instala el java en ubuntu?
+__label__!es como fao para criar uma sala
+__label__!de is there a german channel?
+__label__!es ?
+__label__!sound hi sirs, where do i configure the esound daemon? it's not working properly. i get sound in say xmms, but not in bzflag
+__label__!es ?
+__label__!es alguien que hable espaol por aqui
+__label__!de hi wat ist the lin to ubuntu chat german
+__label__!info tritium,  i get a wierd error...can i put it in a pvet msg box for you?
+__label__!es pero si responde a ping  166.114.10.10
+__label__!info hi, i can't remember where the ms-ttcorefonts are - anyone remember?
+__label__!fr bonsoir tou le monde
+__label__!es sort -n fichero me ordena numericamente un fichero pero si yo quiero decirle un campo como lo hago?
+__label__!es necesito un canal espaoooool
+__label__!es habla alguien espaol
+__label__!fr hello ! does anybody speak french ?
+__label__!info will this work? "sudo apt-get install libdvdread3"?
+__label__!es whats is te ubuntu channel in spanish? thanks a lot
+__label__!fr ya t'il quelqu'un qui parle francais
+__label__!de wenn ich eine daten cd bei k3b erstelle und da mp3s mimt brenne, laufen die dann auch in meinem mp3 autoradio
+__label__!de hi, ist da jemand?
+__label__!es porfabor el canal ubuntu en espaol cual es?
+__label__!info i'm trying to install wesnoth 0.8.11 (hoary's version) on breezy so that i can continue a saved game. i've tried forcing a previous version, but synaptic keeps returning to the current one. anyone have any ideas?
+__label__!es cmo est todo el mundo?
+__label__!es rixth: do they come in packets of five?
+__label__!es alguien ke hable espaol?
+__label__!de ava - ubuntu-de
+__label__!es hay alguien???
+__label__!it please speack italian
+__label__!fr tin ma grosse chui la :p
+__label__!es ol, algum poderia me dizer como fao para acessar o meu hd escravo, acabei de instalar o umbuto e estou tendo dificuldades
+__label__!es hola
+__label__!info dasher.
+__label__!es some body speak spanish???
+__label__!es hola
+__label__!fr bonsoir tout le monde
+__label__!de moin erstmal
+__label__!de thomas, nein :)
+__label__!es necesito ayuda :d
+__label__!es somebody speak spanish??
+__label__!info (as root)
+__label__!de is there a german ubuntu channel too?
+__label__!fr y a t'il quelqu'un pourc m'aider?
+__label__!info fonts is, like, https://wiki.ubuntu.com//fontinstallhowto
+__label__!es buenas tardes a todos
+__label__!info anyone know what the python-dev package is i did an sudo apt-cache search python  | grep -i dev and dont see one
+__label__!grub fsd: /msg ubotu grub
+__label__!es me cajo na conecha
+__label__!es alguien habla espa?ol??
+__label__!info anyone know where totem-xine has gone?
+__label__!es alguien de cadiz que avle espaol
+__label__!es alguien habla espaol?, speak spanish?
+__label__!info gmhafiz, afaik ubuntu comes with samba integrated.
+__label__!fr avec evolution je n'arrive pas  envoyer mes mails
+__label__!fr coomment je fait pour aller sur un chat en francais?
+__label__!es any one speak spanish??
+__label__!es algun espaol?
+__label__!it frazena: go ahead and ask. but if you feel more comfortable in your own language, check out
+__label__!de hatt irgend jemand zeit und den nerv,mir zu erklren,wie ich die neue amule version mit kad auf mein ubunut system installieren?(bin anfnger)
+__label__!es hay alguien x aqui
+__label__!fr salut stich
+__label__!info im trying to do sudo apt-get install sendmail -- but its telling me that theres is no canidate. how do i get it to work? :)
+__label__!de sever de??????
+__label__!de deutsch sprechende hier?
+__label__!fr salut   !!       est-il possible de faire tourner msn messenger (windows) avec wine chez ubuntu  merci pour vos rponcess
+__label__!es i just want to know... anybody here speaks spanish?
+__label__!info bugger all, i dunno. try searching at http://ubuntu.cc.com.au/, nickgarvey
+__label__!fr bonsoir qulequ'un parle franais
+__label__!fr chiboogi: english. there are other channels for other languages
+__label__!es !es
+__label__!info madpilot: mm, might install that myself.
+__label__!info wsjunior: you don't have multiverse enabled.
+__label__!info nsmith: i think its in universe repo but you can sudo apt-get install totem-xine
+__label__!info pinpoint: pan
+__label__!ask carthik: yes, breezy. it did this a while ago but was fixed by blowing the dust out of the computer case; this time that didn't work
+__label__!de ist hier jemand der deutsch spricht ???
+__label__!fr bonjour tout le monde!
+__label__!es hi i'm loockin for a irc in spanish someone can helpme?????
+__label__!es hola
+__label__!es alguien que hable espaol?
+__label__!es alguien habla espaol??????
+__label__!es hola
+__label__!es alguien habla espaol aqui?

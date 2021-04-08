@@ -1,0 +1,183 @@
+__label__!repeat how to install theme in firefox1.5?
+__label__!it ciao a tutti
+__label__!ask blair: yes
+__label__!upgrade soundray: lol sorry for my bad english. is there a guide which explanes how i do that?
+__label__!hi everyone
+__label__!info 
+__label__!de wie kann ich einen admin dateimanager ffnen um zu kopieren
+__label__!fr y a des francais ?
+__label__!upgrade how do i upgrade breezy to dapper?
+__label__!upgrade is there an easier way to update to edgy from dapper without making a cd?
+__label__!upgrade hey, i have hoary hedgehog installed on an old laptop. can i just download the latest iso and install a new ubuntu over this, keeping my user data, or do i have to wipe the drive and install fresh? i've tried the little upgrade manager, but it doesn't seem to want to get me upgraded.
+__label__!upgrade is there a guide to doing distupgrade to edgy?
+__label__!offtopic i have a question... there is this girl that have been sending me alot of text messages on the phone... if i want to follow her shopping, go see a movie etc... is she intressed in me or is it just as a friend?
+__label__!fixres hey, if anyone has time, i need help with my screen resolution
+__label__!offtopic hello .. .any girl speak spanish
+__label__!upgrade because when i did before the application menus were messed up
+__label__!repeat please can any one help how to connect laptop to tv using s-video
+__label__!sound how come i don't have any sound in ubuntu?
+__label__!it salve c' qualcuno che ha mai usato swap magic su ps2?
+__label__!upgrade i am using ubuntu dapper and i want to update evolution to its last version, how can i do it?
+__label__!offtopic we_need_ur_help, nice id :d
+__label__!grub cwillu: no doit manually, check the help.ubuntu.com
+__label__!info :(
+__label__!info ubun: you can use amarok in gnome
+__label__!es alguien habla espaol
+__label__!offtopic god damn.. hot chick standin next to me leaning on desk stickin her ass out.. hard to resist
+__label__!es alguien habla espaol?
+__label__!upgrade can i quickly and painlessly upgrade my 6.06 to 6.10 ?
+__label__!sound can anyone help me get my sound working?
+__label__!fixres how can i increase my refresh rate on my monitor? i know that it supports at least 75, but it's not going higher then 50
+__label__!it giorno a tutti
+__label__!info which package contains the gtk+ headers?
+__label__!es alguien que hable espaol????
+__label__!fixres hiya installed edgy 64 and now i dont have any graphical boot up screen any ideas whats up
+__label__!upgrade pelo, can't
+__label__!fixres can any body tell me plz how to improve my screen resoulution , its not working from system->administrative-> screen resoulution
+__label__!offtopic anyone see the southpark episode where it was all about world of warcraft?
+__label__!de ich hatte bei dapper immer eine autvervollsndigung in der konsole. wo ist die in edgy hin???
+__label__!fr please french
+__label__!hi new to ubuntu ! hello
+__label__!ask i need help please, people are waiting for me to finish this project, i need help
+__label__!offtopic haha <3 patrick stewart
+__label__!ask i need some help lol
+__label__!anyone miniman: just ask your question
+__label__!hi hello world
+__label__!hi would usb2 hdd enclosures work with ubuntu server?
+__label__!fixres i kind of know how to do it
+__label__!de hallo weis einer wie ich bei hydra den parameter so einstelen kann das er brute force macht und das ohne wordlist?
+__label__!ask hello, how do i get some help....
+__label__!sound does edgy have support for audigy sound cards or do i have to configure anything specific?
+__label__!hi hi there
+__label__!offtopic 
+__label__!hi 
+__label__!info !info libc6
+__label__!upgrade enverex: 5.10 > 6.06 > 6.10
+__label__!info 
+__label__!de beim instakken
+__label__!es hola alguien habla espaol?
+__label__!upgrade is it possiable to upgrade from breezy to edgy, if i have the .iso downloaded on my box w/out burning it to a cd or anything?
+__label__!ask anyone have a minute for a wifi question?
+__label__!anyone greyghost-ubuntu, i am installing windows on my box through qemu.....(now i have some blue screen after installing...should i have to reboot my system now?)
+__label__!fixres any ideas
+__label__!fixres how can i change the screen resolution to something higher than 1024x768? i already installed nvidia's display driver
+__label__!es bibletime: a bible study tool for kde. in component universe, is optional. version 1.6-0ubuntu1 (edgy), package size 1088 kb, installed size 2676 kb
+__label__!es para espaol por favor usen #ubuntu-es, #kubuntu-es o #edubuntu-es, all obtendrn mas ayuda.
+__label__!offtopic can anyone help please
+__label__!info e: couldn't find package airsnort
+__label__!hi hi everyone
+__label__!de guten morgen
+__label__!offtopic robtp: what's up?
+__label__!info any freenx users?
+__label__!ask hi everybody i've a question
+__label__!fixres the resolution manager doesnt give me an option to use a resolution bigger than 1024x768..  i know my vidcard and monitor are capable of more, how can i increase the resolution?
+__label__!fixres i seem to be unable to change my screen resolution higher than 1024x768, while i've had 1280x1024 for about a month on windows
+__label__!upgrade 
+__label__!fr salu
+__label__!info q_continuum: rar is a non-free archive format created by rarsoft. for instructions on accessing .rar files through the archive manager view https://help.ubuntu.com/community/filecompression. there is a free (as in speech) unrar utility as well, see !info unrar-free
+__label__!fixres *resolutions
+__label__!ask everyis there anyone here that can help me with a package installation problem?
+__label__!info jrib, i'm trying to install lirc
+__label__!es alguien es de espaa??
+__label__!ask i have a quick question if anyone is willing to help out
+__label__!de wie installier ich moinmoin am besten? fastcgi oder besser twisted?
+__label__!upgrade wkerzend, you'll need to add the edgy repos to sources.list
+__label__!upgrade capiira: nope
+__label__!fixres hi folks. kubuntu 6.10 on an intel macbook, screen resolution is fixed at 1024x768, i need 1280x800, no option to change it in the gui. may i have some pointers on what to do please?
+__label__!ask i need some help with ubuntu
+__label__!fixres hey hey, thought id ask in here.. for some reason my resolution goes only up to 1280x1024 in xorg in ubuntu, i know my card supports up to 1600x1280 tho, it's a radeon 9600 pro, is there any way to change to so i can reach 1600x1280?
+__label__!fixres how can i change my ubuntu screen resolution to 1440x900 ? its not in the list...
+__label__!anyone did anyone installed and used " clamav " ?
+__label__!anyone saohh, there are 1,011 someone's in here
+__label__!fixres whats this fixres rioghal?
+__label__!info sun-java5-plugin: the java(tm) plug-in, java se 5.0. in component multiverse, is optional. version 1.5.0-08-0ubuntu1 (edgy), package size 1 kb, installed size 64 kb
+__label__!de is there a german channel?
+__label__!ask hello! who ready for a really dumb noob question ?
+__label__!fr j'ai un souchi
+__label__!de hrt euch ma meinen podcast an
+__label__!upgrade sorry, i don't know anything about upgrade vakosel - try searching on http://bots.ubuntulinux.nl/factoids.cgi
+__label__!de ich hab ein kleineres problem mit tabellen
+__label__!grub hi, i broke my grub after swaping the hdd (and copied the partitions)
+__label__!es hola
+__label__!hi hi
+__label__!ask anyone able to answer a question about configuring conky?
+__label__!anyone does anyone here use tilda?
+__label__!fr someone speak french ?
+__label__!hi hello!
+__label__!sound my mic used to work, but now it doesn't.  i think it stopped working while i was using breezy; i have dapper now.  where do i start tracking down the problem?
+__label__!fr sorry, i don't know anything about fr sylvain_ - try searching on http://bots.ubuntulinux.nl/factoids.cgi
+__label__!it ciao a tutti!
+__label__!upgrade i would like to upgrade mu ubuntu from breezy to the latest one ? is there a fast wat ?
+__label__!upgrade hey someone can tell me a link to download the feitsy ?
+__label__!repeat hey guys how do i set it so my sound card will be set to snd-hda-intel at boot automatically? so i dont have to set it up every restart?
+__label__!grub hello, just installed ubuntu again (a while since i last used it) and now grub fails on me, gives me a lot of errors, cant boot into linux or windows
+__label__!grub after i do a update-grub the entry i added gets deleted
+__label__!hi hello all
+__label__!info 
+__label__!repeat pakito: the one that's easy to break into.
+__label__!repeat infinitysend: ubuntu doesn't run on windows.
+__label__!anyone en = an.
+__label__!ask hello everyone
+__label__!ask could anyone help me?
+__label__!es spanish
+__label__!offtopic da bears won!!
+__label__!es sala en espaol
+__label__!es sala en espaol
+__label__!fixres i have a slight problem. i can not change resolution to 1280 800, only got the standard resolution. what to do?
+__label__!fixres how do i add more screen resolutions in ubuntu
+__label__!grub how do i reinstall grub from the edgy livecd?
+__label__!upgrade smackass: for upgrading, see the instructions at https://help.ubuntu.com/community/upgradenotes
+__label__!grub i have dual boot: i reinstall xp, so xp override grub of ubuntu, now how can i install grub so that i can find my previous ubuntu
+__label__!es sala en espaol
+__label__!offtopic does anyone know linux mint? it is ubuntu but with codecs...
+__label__!de someone german here who can help me?
+__label__!ask elporro, just ask them
+__label__!hi hi
+__label__!ask um cud somone help me wth ubuntu?
+__label__!grub im trying to recover grub after a winxp install wiped out the boot loader
+__label__!fixres how do i get ubuntu to let me change to a higher resolution? the screen resolution gui only lets me go as high as 1024x786, i tried adding 1280x1024 modes to /etc/x11/xorg.conf (like so: http://pastebin.com/868191) and rebooted, but the dropdown still only has 1024x786 as the highest... help please?
+__label__!de hi there any one free to let me know, where is here~~~
+__label__!anyone any one use icecast
+__label__!upgrade could someone give me a link of how to do a dist-upgrade from breezy to dapper?
+__label__!de wie installiere ich software bei ubuntu?
+__label__!es somebody can give me a little help on spanish?
+__label__!ask ichbum-nix waits his turn
+__label__!grub metaperl: you should try the instructions for grub failure after windows install:
+__label__!upgrade how can i upgrade my ubuntu to upper version ?
+__label__!ask hi, i have an ubuntu question...
+__label__!fr i people, i'm french user of ubuntu
+__label__!grub how can i make the desktop cd install let me dual boot!
+__label__!info stikkitjim: if you're sure you want to try lilo, it's a matter of installing it from the right repository:
+__label__!info melon, its 1.2.10
+__label__!fixres <stupid question(linux n00b)> how do you change the res on an ati card above 800x600 in ubuntu?</stuid question> :p
+__label__!sound my sound isn't working
+__label__!grub hello to evryone!!!!   i have installed xubuntu on my pc, but when i select kernel version from grub menu , i cant see anything until x appears. i must config grub terminal like lilo vga=799 remenber? how can i do?
+__label__!ask am i right saying that any program that runs under user's account can execute apps under root using "sudo cmd" , or only user can .
+__label__!de patricksta: deutschsprachige hilfe fuer probleme mit ubuntu, kubuntu und edubuntu finden sie in den kanaelen #ubuntu-de, #kubuntu-de, #xubuntu-de und #edubuntu-de
+__label__!grub guys, i want to overwrite grub with windows installer, how to do that ? what command do i have to type in windows recovery thing ?
+__label__!grub hi all, quick question, i currently have windows xp & ubuntu dual booting together, but i want to reformat the windows partition and re-install windows vista, if i do this will it break the grub boot loader and mean i wont be able to get into linux?
+__label__!es hola
+__label__!anyone anyone here help me out with an install issue on powerpc
+__label__!ask please, i need help with networking!
+__label__!hi hello good people
+__label__!offtopic this is a non ubunto question but maybe someone will answer it anyway: if you have prepaid phone plan from singular do also have to pay when you receive calls. or is it just like in europe where you only have to pay when you make the call.
+__label__!hi hi everyone
+__label__!ask i have a simple shell question if anyone can help
+__label__!sound can anyone help me with this odd sound problem? i hear the drum sound at the login screen, after that, i can't get sound working, alsamixer won't even start
+__label__!grub i'm installing windows now, how would i reinstall grub to allow me to dual boot
+__label__!repeat how do i find out if i have files/config's that are dead and just taking up space?
+__label__!upgrade hi...i asked before how can i upgrade my ubuntu version...and somebody gave me a link...with explication...anybody knows........again...sorry
+__label__!repeat i got my drivers partially working (8.3.2)... fglrx fails to load though bcoz the system deletes fglrx.ko from /lib/modules/$(uname -r) when fglrx is blacklisted. if i copy it back there and restart the server, fglrx loads nicely. i've tried depmod -ae after copying the file and restarting gdm. that doesn't work
+__label__!hi hi to all
+__label__!grub flannel ok let's say i'm ok now with ubuntu, but how to fix the grub ? that it would recognize ..
+__label__!upgrade but in the update manager, there's no button to upgrade
+__label__!anyone can somebody please help me?
+__label__!offtopic what do you guys think about canonical and linspire deal? i read a few articles saying that it is bad idea and that can even be  the end of linux as we know it.
+__label__!it ciao a tutti
+__label__!grub can someone help me re-install grub, i made an xp install over my ubuntu?
+__label__!de schizoschaf: deutschsprachige hilfe fuer probleme mit ubuntu, kubuntu und edubuntu finden sie in den kanaelen #ubuntu-de, #kubuntu-de, #xubuntu-de und #edubuntu-de
+__label__!sound need help w/ubuntu macintel and sound, running ubuntu 6.10
+__label__!upgrade skuller, some people have had issues upgrading to edgy, make sure you google it, there's a proper way to do it
+__label__!fr !fr
+__label__!es alberto: #ubuntu-es
+__label__!info package build-essentials does not exist in edgy, edgy-seveas

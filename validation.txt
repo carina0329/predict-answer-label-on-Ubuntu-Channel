@@ -1,0 +1,174 @@
+__label__!fr bonjour
+__label__!es hola
+__label__!ask hello,may i ask for some help,humbly?
+__label__!it fianno
+__label__!es que onda
+__label__!fr ya des francofile ici?
+__label__!es we speake spanish?
+__label__!es espaol
+__label__!de jemand der zuflligerweise auch gentoo benutzt?
+__label__!es someone speak spanish?
+__label__!es hola
+__label__!upgrade hotdrive: you could update to the dapper flight 7
+__label__!es mejor los dejamos. somos demasiados
+__label__!es zax1:
+__label__!it funziona
+__label__!es hooooooooooolaaaaaaaaaaaaaaa
+__label__!es hola alguien habla espaol?
+__label__!fr i haven't a clue, try searching at http://ubuntu.cc.com.au/, jimmey__
+__label__!es espaol??
+__label__!es alguien sabe espaoo=?
+__label__!it (if you are italian is even better ;-) )
+__label__!es buenas
+__label__!es hola
+__label__!es hola
+__label__!upgrade 
+__label__!de hallo bitte hilfe mir ber frostwire downlads ffner
+__label__!es alguien habla espaol?
+__label__!es hola osvaldo bienvinidos to ubuntu
+__label__!fixres starkruzr,  the x configs have 'video card' settings then settings for what the monitor can do. if the system thinks the monitor can only handle 640x480 or whatever. thats what it will default to.
+__label__!es alguien habla espaol
+__label__!grub 
+__label__!info any help i was installing k3b after it finished when i open it,i get an error it says  unable to find  cdrdao executable solun is to install the cdrdao packages where i can find it?
+__label__!es hola alguien habla espaol?
+__label__!es buenas
+__label__!fr comment se fait il que c'est en franais?
+__label__!info for lots of multimedia issues this page has the useful information you want: https://help.ubuntu.com/community/restrictedformats  see also http://help.ubuntu.com/ubuntu/desktopguide/c/common-tasks-chap.html - please use free formats: https://help.ubuntu.com/community/freeformats
+__label__!info gstreamer0.10-pitfdll seems to be missing at the standard apt-get repository locations.  any clue where it can be found now?
+__label__!es a y alguien
+__label__!info w00t
+__label__!de jemand das dsl mode speedport w 501v und weiss, wie man da remote administration einstellt
+__label__!info vikash: xchm can read them
+__label__!info i need it to install php
+__label__!es !es
+__label__!info i want to install msttcorefonts. universe is in my source.lst. but aptitude doesn't fint it
+__label__!info hi, is wine avaliable for ubuntu64 ? cant find anything
+__label__!grub hey, i did something to grub and it will no longer boot windows (from the grub menu), how can i fix this?
+__label__!info isn't java legal?
+__label__!info skavenge: i tried that .. it doesnt return anything, so it must not be available
+__label__!de wer kommt nich klar?
+__label__!upgrade 
+__label__!info package soundconvertor does not exist in dapper
+__label__!info for compiling a program, i need wxwidgets 2.6.x release. what package does include wxwidget?
+__label__!es alguien ha tenido problemas en el arranque con la livecd de ubuntu en e1 pc con radeon 9600
+__label__!info anyone have any idea how to setup webboard
+__label__!ask karlola:
+__label__!es hola como estais
+__label__!info neomatrixjr1: which package?
+__label__!info userundefine: do i have ta add a repo to my sources list?
+__label__!de some german people here?
+__label__!es alguien habla espaol?
+__label__!grub !grub > nilesh892003
+__label__!info abo: gocr
+__label__!fr il y a des francais?
+__label__!offtopic 
+__label__!info anybody here using inkscape from the autopackage of it? i need somebody to help me debug something
+__label__!offtopic i have an offtopic question - but i am ubuntu user *g*
+__label__!es yo tambien kiero
+__label__!es alguien que hable espaol?
+__label__!info warbo, ... rsrs thanks anyway
+__label__!info warbo, i think that i found. its name is kuake
+__label__!de was geht boys alles klar
+__label__!info blur: type in here "!info packagename"
+__label__!info !info gnome-terminal edgy
+__label__!info is there a good soulseek linux client?
+__label__!fr qualcuno
+__label__!it ?
+__label__!de german user here ?
+__label__!info merovingian: try gpart.
+__label__!es q pasa
+__label__!info is there kino 0.9.2 available for ubuntu??
+__label__!info erusul: and how do i do that?
+__label__!ask can someone help me.... !
+__label__!it natascia: espanol?
+__label__!ask 
+__label__!info isn't eclipse sdk available in the standard repository?
+__label__!es any spanish person?
+__label__!fr hello personne aurait des problmes de dns avec orange ? en ce moment enfin depuis 3 jours  ?
+__label__!grub help! i tried to install xp after i had successfully installed ubuntu, and then ran gparted to make my partitons afterwards. xp is not installed on the first partition. any ideas? it gave a disk error after rebooting into the second phase of xp installation. so my idea is, that i need to overwrite whatever windows put on the mbr, and put a grub on that will correctly boot xp/ubuntu... can somebody point me to a howto
+__label__!es hay alguien aki?
+__label__!es espaol?
+__label__!info rasta: do you have universe enabled?
+__label__!es anyone who talk in spanish?
+__label__!es hola
+__label__!es hola como te llamas
+__label__!info anyone know what version of wordpress is in the ubuntu repos?
+__label__!es paraguay fiu fiu!
+__label__!es hola, existe algun programa como el dragon naturaly speaker en ubuntu???
+__label__!fixres !fixres > nzvip
+__label__!es hay personas de venezuela aqui
+__label__!de sprichst du deutsch?
+__label__!info missile command like game.
+__label__!fr bonjour tout le monde
+__label__!de cheesy: das ist schoen, but this is a englisch only channel
+__label__!info can anyone tell me how to install aclocal-1.6 on dapper version?
+__label__!info porkpie__: ee ?
+__label__!repeat hi guys! i have a dvd ("karol"), in totem i have sound (music) but no speech. any hint? thank you!
+__label__!es !es
+__label__!es espaol
+__label__!upgrade 
+__label__!repeat i'm having trouble with my broadcom 4400 ethernet card, it stops working after a while. if i ping while it's working, and let it run for long enough i get some buffer errors and the card stops working
+__label__!fixres hey there. i'm just now getting into ubuntu and i need some help. i would like to change my screen resolution, as of now it seems i can't. i believe i need to install some packages, but idk what/how. secondly i'd like to get my wifi card up, as it isnt now. i also believe this is solved by dling packages, but again, i'm lost
+__label__!upgrade hiya, if i want to upgrade to edgy, would i be better off downloading and making an installation cd?
+__label__!grub kadre try c:\boot.ini do a google serach for grub boot.ini
+__label__!ask i need someone to nc me ...
+__label__!sound tried restart
+__label__!offtopic 
+__label__!repeat anyone know how i can remap my keys?  i need < to be f8 and > to be spacebar..
+__label__!es alguien de espaa,porfavor?
+__label__!hi hello all
+__label__!offtopic what is the best distro to run as a server (non ubuntu and non compile from source)
+__label__!hi hi all
+__label__!grub question.. ubuntu on main hd installed xp on 2nd hd, grub doesnt see xp just got to ubunu?
+__label__!de 
+__label__!es alguien habla espaol?
+__label__!de 
+__label__!upgrade what should i do to upgrade from dapper to edgy eft ?
+__label__!upgrade grndslm: is not recomended see the topic
+__label__!anyone i've got a problem with gcc, can anybody help me?
+__label__!es alg pode me ajudar ?
+__label__!fr je veux mont un rep windows sur mon xfce ?????????????? en ligne de commandes de prfrences ;-) !!
+__label__!anyone anyone know anything about beryl?  i know about ubuntu-xgl, but nobody is answering in there
+__label__!hi hello
+__label__!fixres hey guys got a problem, i just installed ubuntu 606 lts (from a book) onto my pc. all is well except that my desktop resolution is 640 x 480. when i go to the screen resolution screen it only displays that resolution but i know my monitor can handle 1280 x 1024. can anyone help me with this problem please. thanks
+__label__!grub thanks in advance.
+__label__!de sorry, i don't know anything about ubuntu-de - try searching on http://bots.ubuntulinux.nl/factoids.cgi
+__label__!info i tried the flash 9 guide, and that didn't work either
+__label__!es pleace, some body speak spanish??????
+__label__!upgrade yes but what to do in the interrum?
+__label__!info package libxine-extracodecs-source does not exist in any distro i know
+__label__!fixres cntb: kubuntu is ubuntu with kde, the k desktop environment, instead of gnome. for more info see http://kubuntu.org  -  for support: #kubuntu  -  to install from ubuntu: "sudo apt-get install kubuntu-desktop"
+__label__!hi hello everyone....
+__label__!hi hi
+__label__!fr he en fait c'est celui la de lien que je doit suivre non ? : http://doc.ubuntu-fr.org/applications/xgl/gnome
+__label__!hi hi, folks
+__label__!hi hello all
+__label__!hi i'm a newbie hello
+__label__!es alguien me puede ayudar?
+__label__!hi 'lo #ubuntu
+__label__!upgrade where can i find upgrade instructions for upgrade from drapper to edgy (i need to upgrade from command line)
+__label__!upgrade i'm wondering what the best way to upgrade dapper 6.06lts to edgey 6.10 is in my case
+__label__!info tang^: update-manager will only ask you for your password if you didn't already type it to some other admin program in the last 15 (?) minutes
+__label__!info jrib, leafpad ?
+__label__!grub i messed my ubuntu installation with a winxp cd....  i think it might be grub that's wiped out from the mbr or something alike... but the files are all still on the disk.. how do i put grub back in place and working using the bootable dvd of ubuntu????
+__label__!hi hi
+__label__!ask i have some questions for someone
+__label__!ask anyone?
+__label__!fr salut
+__label__!es como les vaila cauros, que se teje
+__label__!it salve a tutti
+__label__!hi hello everyone
+__label__!hi hi folks!
+__label__!info i just googled ubuntu chinese support package
+__label__!upgrade :/ could be
+__label__!fr allez a #ubuntu-fr ou #kubuntu-fr pour de l'aide et de la discussion en francais.
+__label__!hi hello to all
+__label__!hi hello
+__label__!hi hello everyone
+__label__!es que onda gente
+__label__!info ljl: doesnt help :s
+__label__!hi hi
+__label__!repeat !repeatr mtymobile
+__label__!anyone 
+__label__!info clinton__: :-) totem is currently a bit weird with dvds as well. if you just insert a dvd, totem will start and the dvd will play. but if you try and play a dvd through the totem file menu, it will fail.
+__label__!sound hey guys... i'm having trouble with sound.  i'm suspicious that ubuntu isn't detecting my sound card or something.  is there an obvious help page for this that i'm missing?  anybody wanna help me troubleshoot?

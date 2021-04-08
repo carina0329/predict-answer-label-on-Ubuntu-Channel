@@ -23,9 +23,9 @@ Things to install
 
 ### Installing
 
-pip install numpy
-pip install fasttext
-pip install matplotlib
+* pip install numpy
+* pip install fasttext
+* pip install matplotlib
 
 ## Data Representation
 * Built a dictionary of unique words from the full dataset

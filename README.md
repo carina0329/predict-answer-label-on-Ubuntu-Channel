@@ -1,4 +1,4 @@
-# predict-answer-label-on-Ubuntu-Q&AChannel
+# predict-answer-label-on-Ubuntu-Chat Channel
 The answer bot, Ubotu, plays an importantn role in answering questions on Ubuntu Q&A channel. However, specific labels are required to trigger their answers. These labels are manually entered by human users when they see questions that are answerable by bots.
 My project is to learn the features of a question and predict the answer labels, which then trigger the Ubotu to answer the question. The goal of this is to replace the human label with an automated algorithm
 
